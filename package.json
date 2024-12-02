@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Cilaaantro/Web-Crawler#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "web-crawler": "file:"
   }
 }
