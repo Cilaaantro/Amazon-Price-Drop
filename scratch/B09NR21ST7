@@ -1,0 +1,795 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 10,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B09NR21ST7",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2024-12-11T10:41:08.143Z",
+    "processed_at": "2024-12-11T10:41:13.985Z",
+    "total_time_taken": 5.84,
+    "amazon_url": "https://www.amazon.com/dp/B09NR21ST7?th=1&psc=1"
+  },
+  "product": {
+    "title": "Microsoft Xbox Series X 1TB Gaming Console Console + 1 Wireless Controller - Backward Compatible with Thousands of Games, Fine-Tuned Performance, True 4K Gaming, Up to 120 FPS - HDMI_Cable",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "Microsoft,Xbox,Series,X,1TB,Gaming,Console,Console,+,1,Wireless,Controller,Backward,Compatible,with,Thousands,of,Games,Fine-Tuned,Performance,True,4K,Gaming,Up,to,120,FPS,HDMI_Cable",
+    "keywords_list": [
+      "Microsoft",
+      "Xbox",
+      "Series",
+      "Gaming",
+      "Console",
+      "Console",
+      "Wireless",
+      "Controller",
+      "Backward",
+      "Compatible",
+      "with",
+      "Thousands",
+      "Games",
+      "Fine-Tuned",
+      "Performance",
+      "True",
+      "Gaming",
+      "HDMI_Cable"
+    ],
+    "is_collection": false,
+    "asin": "B09NR21ST7",
+    "link": "https://www.amazon.com/Xbox-Gaming-Console-Wireless-Controller/dp/B09NR21ST7",
+    "brand": "Microsoft",
+    "protection_plans": [
+      {
+        "asin": "B08F81BWHL",
+        "title": "3-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 64.99,
+          "currency": "USD",
+          "raw": "$64.99"
+        }
+      },
+      {
+        "asin": "B08F7ZR5MX",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 49.99,
+          "currency": "USD",
+          "raw": "$49.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Asurion Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "bestseller_badge": {
+      "link": "https://www.amazon.com/gp/bestsellers/videogames/6469295011/ref=zg_b_bs_6469295011_1",
+      "category": "Xbox One Consoles",
+      "badge_text": "#1 Best Seller"
+    },
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics"
+      },
+      {
+        "name": "Video Games",
+        "link": "https://www.amazon.com/computer-video-games-hardware-accessories/b/ref=dp_bc_aui_C_1?ie=UTF8&node=468642",
+        "category_id": "468642"
+      },
+      {
+        "name": "Xbox One",
+        "link": "https://www.amazon.com/Xbox-One-Games-Consoles-Accessories-Hardware/b/ref=dp_bc_aui_C_2?ie=UTF8&node=6469269011",
+        "category_id": "6469269011"
+      },
+      {
+        "name": "Consoles",
+        "link": "https://www.amazon.com/Xbox-One-Consoles-Hardware/b/ref=dp_bc_aui_C_3?ie=UTF8&node=6469295011",
+        "category_id": "6469295011"
+      }
+    ],
+    "categories_flat": "Electronics > Video Games > Xbox One > Consoles",
+    "description": "PROCESSOR\n\nCPU\n\n 8X Cores @ 3.8 GHz (3.66 GHz w/SMT) Custom Zen 2 CPU\n\nGPU\n\n 12 TFLOPS, 52 CUs @1.825 GHz Custom RDNA 2 GPU\n\nSOC Die Size\n\n 360.45 mm\n\nProcess\n\n 7nm Enhanced\n\n\n\nMEMORY & STORAGE\n\nMemory\n\n 16GB GDDR6 w/320 bit-wide bus\n\nMemory Bandwidth\n\n 10 GB @ 560 GB/s, 6 GB @ 336 GB/s.\n\nInternal Storage\n\n 1TB Custom NVME SSD\n\nI/O Throughput\n\n 2.4 GB/s (Raw), 4.8 GB/s (Compressed, with custom hardware decompression block)\n\nStorage\n\n Support for 1TB SSD\n\n\n\nVIDEO CAPABILITIES\n\nGaming Resolution\n\n True 4K\n\nHigh Dynamic Range\n\n Up to 8K HDR\n\nOptical Drive\n\n 4K UHD Blu-Ray\n\nPerformance Target\n\n Up to 120 FPS\n\nHDMI Features\n\n Auto Low Latency Mode\n\n HDMI Variable Refresh Rate\n\n AMD FreeSync.\n\n\n\nSOUND CAPABILITIES\n\nDolby Digital 5.1\n\n DTS 5.1\n\n Dolby TrueHD with Atmos\n\n Up to 7.1 L-PCM\n\n\n\nPORTS & CONNECTIVITY\n\nHDMI\n\n 1x HDMI 2.1 port\n\nUSB\n\n 3x USB 3.1 Gen 1 ports\n\nWireless\n\n 802.11ac dual band\n\nEthernet\n\n 802.3 10/100/1000\n\nAccessories radio\n\n Dedicated dual band Xbox Wireless radio.\n\n\n\nDESIGN\n\nDimensions\n\n 15.1cm x 15.1cm x 30.1cm\n\nWeight\n\n 9.8 lbs.",
+    "sub_title": {
+      "text": "Brand: Microsoft",
+      "link": "https://www.amazon.com/Microsoft/b/ref=bl_dp_s_web_19823613011?ie=UTF8&node=19823613011&field-lbr_brands_browse-bin=Microsoft"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 3.9,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 62,
+        "count": 14
+      },
+      "four_star": {
+        "percentage": 14,
+        "count": 3
+      },
+      "three_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "two_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "one_star": {
+        "percentage": 24,
+        "count": 5
+      }
+    },
+    "ratings_total": 24,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71aBXvHYUpL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71aBXvHYUpL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61iQg-TqFiL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/713M1t4UTIL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/514xMo70m8L._AC_SL1428_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51C5im1vnXL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61Py4vEsK8L._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61kwMNyOQiL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61UalFC8KFL._AC_SL1135_.jpg",
+        "variant": "PT07"
+      }
+    ],
+    "images_count": 8,
+    "images_flat": "https://m.media-amazon.com/images/I/71aBXvHYUpL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61iQg-TqFiL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/713M1t4UTIL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/514xMo70m8L._AC_SL1428_.jpg,https://m.media-amazon.com/images/I/51C5im1vnXL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61Py4vEsK8L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61kwMNyOQiL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61UalFC8KFL._AC_SL1135_.jpg",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.069c1da2dfe34ab193b198541cf6b0f5",
+        "product_asin": "B09NR21ST7",
+        "parent_asin": "B09NR21ST7",
+        "related_products": "B0CJ3XWXP8,B0D7P4CYNJ",
+        "title": "Review-Xbox series X",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61LnqB29MCL._CR0,0,500,500_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/abbeybird",
+        "public_name": "Abbey Bird ",
+        "creator_type": "Influencer",
+        "vendor_code": "abbeybird:shop",
+        "vendor_name": "Abbey Bird ",
+        "vendor_tracking_id": "onamzabbeyhou-20",
+        "video_image_id": "A14vf7jL8rL",
+        "video_image_url": "https://m.media-amazon.com/images/I/A14vf7jL8rL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A14vf7jL8rL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ef6616f3-1838-43fb-b262-a8aaed5746e6/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7fc36577-9823-4349-9f2e-1526bdadb93a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7fc36577-9823-4349-9f2e-1526bdadb93a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:36",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/ac017eae-928c-42b8-83b3-a12ae6f21a2e.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.04c2b418f7614ac3af9cef47c439b646",
+        "product_asin": "B09NR21ST7",
+        "parent_asin": "B09NR21ST7",
+        "related_products": "B09R5NPXCY,B08G9J44ZN,B0CTKRP8Y3",
+        "title": "Comparison Between Xbox Series X And Xbox Series S",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/milob_1657646839908_original._CR418,0,533,533_._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/milob.",
+        "public_name": "Milo B.",
+        "creator_type": "Influencer",
+        "vendor_code": "milob.:shop",
+        "vendor_name": "Milo B.",
+        "vendor_tracking_id": "onamzmilob08-20",
+        "video_image_id": "91xhFvQ7KdL",
+        "video_image_url": "https://m.media-amazon.com/images/I/91xhFvQ7KdL._CR25,0,3764,2124_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91xhFvQ7KdL.jpg",
+        "video_image_width": "3814",
+        "video_image_height": "2124",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7c62971d-3b10-4561-af41-f812b06f8cea/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1f68d75f-94aa-4c5b-a175-fa644dc65c7b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1f68d75f-94aa-4c5b-a175-fa644dc65c7b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1f68d75f-94aa-4c5b-a175-fa644dc65c7b/d4b03274-918a-4a48-9c26-05013f433f36/04c2b418f7614ac3af9cef47c439b646_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "6:35",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/597ad35e-7b77-402f-80a6-a3de8a09a55a.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.074ce96705f5447abba975e2088517cc",
+        "product_asin": "B09NR21ST7",
+        "parent_asin": "B09NR21ST7",
+        "related_products": "B08H75RTZ8,B0CNHQ37CZ",
+        "title": "Heat Warning & Usage Tips - Xbox Series X",
+        "profile_image_url": "https://m.media-amazon.com/images/I/51euo+Fyw+L._CR0,0,350,350_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/localymdr5n",
+        "public_name": "Tony's Tips",
+        "creator_type": "Influencer",
+        "vendor_code": "localymdr5n:shop",
+        "vendor_name": "Tony's Tips",
+        "vendor_tracking_id": "onamzanth0634-20",
+        "video_image_id": "51GSqi3lLNL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51GSqi3lLNL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51GSqi3lLNL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6d669bdb-dead-4d64-8094-66ed75f5a232/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dc2cc23a-996a-42b2-b1a7-ba4a190e8a41/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dc2cc23a-996a-42b2-b1a7-ba4a190e8a41/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:02",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/adfb195b-ae3e-4015-82d1-f89e98dd8e72.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0b31bee9f23d468b8ca3909dd8b64617",
+        "product_asin": "B09NR21ST7",
+        "parent_asin": "B09NR21ST7",
+        "related_products": "B0CJ3XWXP8,B0DNR5VBZH",
+        "title": "HONEST Review - Xbox Series X Console",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81LCOiUWPjL._CR7,10,672,672_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/petesflips",
+        "public_name": "Peter Nelson",
+        "creator_type": "Influencer",
+        "vendor_code": "petesflips:shop",
+        "vendor_name": "Peter Nelson",
+        "vendor_tracking_id": "onamzpnelson1-20",
+        "video_image_id": "61ATAj++aXL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61ATAj++aXL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61ATAj++aXL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/78fc2eda-561c-41b3-8aed-af0993d4edf8/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6fe6b48e-36e3-4fcf-ba07-c96c806e14fd/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6fe6b48e-36e3-4fcf-ba07-c96c806e14fd/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:32",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/523d145c-5500-4fcd-9921-215dd21334cd.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "What's in the box: Xbox Series X console, 1 Xbox Wireless Controller - Carbon Black, Ultra High Speed HDMI cable, Power cord.",
+      "Equipped with AMD's Zen 2 and RDNA 2 architectures, DirectX ray tracing delivers true-to-life lighting, shadows and accurate reflections to create dynamic, living worlds.",
+      "Memory: 16GB GDDR6 w/320 bit-wide bus; Memory Bandwidth: 10 GB @ 560 GB/s, 6 GB @ 336 GB/s; Internal Storage: 1TB Custom NVME SSD",
+      "Gaming Resolution: True 4K; Performance Target: Up to 120 FPS; High Dynamic Range: Up to 8K HDR; Optical Drive: 4K UHD Blu-Ray; HDMI Features: Auto Low Latency Mode, HDMI Variable Refresh Rate, AMD FreeSync.",
+      "Bundled with HDMI_Cable"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Bundled with HDMI_Cable. Gaming Resolution: True 4K; Performance Target: Up to 120 FPS; High Dynamic Range: Up to 8K HDR; Optical Drive: 4K UHD Blu-Ray; HDMI Features: Auto Low Latency Mode, HDMI Variable Refresh Rate, AMD FreeSync. Memory: 16GB GDDR6 w/320 bit-wide bus; Memory Bandwidth: 10 GB @ 560 GB/s, 6 GB @ 336 GB/s; Internal Storage: 1TB Custom NVME SSD. Equipped with AMD's Zen 2 and RDNA 2 architectures, DirectX ray tracing delivers true-to-life lighting, shadows and accurate reflections to create dynamic, living worlds. What's in the box: Xbox Series X console, 1 Xbox Wireless Controller - Carbon Black, Ultra High Speed HDMI cable, Power cord.",
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "No Operating System"
+      },
+      {
+        "name": "Input Device",
+        "value": "Gamepad"
+      },
+      {
+        "name": "Brand",
+        "value": "Microsoft"
+      },
+      {
+        "name": "Model Name",
+        "value": "Series"
+      },
+      {
+        "name": "Color",
+        "value": "black"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "RTW9SR58JT9YB",
+        "title": "Perfect",
+        "body": "X box came just as described! The exterior box was damaged but the console itself was untouched. It functions well, has a lot of storage, everything downloads and loads extremely fast compared to our old consoles! Definitely worth the money! Read more",
+        "asin": "B09NR21ST7",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>X box came just as described! The exterior box was damaged but the console itself was untouched. It functions well, has a lot of storage, everything downloads and loads extremely fast compared to our old consoles! Definitely worth the money!<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RTW9SR58JT9YB/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09NR21ST7",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 23, 2024",
+          "utc": "2024-11-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AG2ZJFIKY375YJNS6FWM5CJ37MMQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG2ZJFIKY375YJNS6FWM5CJ37MMQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "RRVQGE3M6NLEA",
+        "title": "Disappointed - Sooooo SLOWWWWWW.  Sucks",
+        "body": "I have been playing video games for 40 years, always from a desktop computer.  My experience with this dedicated system was surprisingly disappointing !?!?!?  This was my first time using a dedicated gaming machine and I'm already thinking about sending it back. I was hoping for instant on gaming, but no, it just doesn't work that way.  It's slower than my desktop computer and frankly, I hate the controllers. I have invested hours trying to figure out the various uses of the game controller, which is so much harder to use than a standard computer keyboard and mouse.  And it is just so slow starting up.  I have ultra high speed Google fiber ISP service and X box is still slow to download games. Worse still, they are a lot more expensive than I ever imagined. How is that not an issue?  After my initial power up, it took 30 minutes to register a new account and update just the X box. Then, another 30 minutes to sign-up for the monthly service ($20/mo) and download my game.  The video experience was not much better than my computer screen and much darker, overall. I had to jack with countless settings to get a decent image on my brand new TV (OLED, 120 Hz, 4K, 40\").  Really disappointed. These FPS games are just not any better than they were 20 years ago and that's really sad.  I also have no interest in the on-line games or chat rooms. Read more",
+        "asin": "B09NR21ST7",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I have been playing video games for 40 years, always from a desktop computer.<br><br>My experience with this dedicated system was surprisingly disappointing !?!?!?<br><br>This was my first time using a dedicated gaming machine and I'm already thinking about sending it back.<br>I was hoping for instant on gaming, but no, it just doesn't work that way.<br><br>It's slower than my desktop computer and frankly, I hate the controllers.<br>I have invested hours trying to figure out the various uses of the game controller, which is so much harder to use than a standard computer keyboard and mouse.<br><br>And it is just so slow starting up.<br><br> I have ultra high speed Google fiber ISP service and X box is still slow to download games. Worse still, they are a lot more expensive than I ever imagined. How is that not an issue?<br><br>After my initial power up, it took 30 minutes to register a new account and update just the X box. Then, another 30 minutes to sign-up for the monthly service ($20/mo) and download my game.<br><br>The video experience was not much better than my computer screen and much darker, overall. I had to jack with countless settings to get a decent image on my brand new TV (OLED, 120 Hz, 4K, 40\").<br><br>Really disappointed.<br>These FPS games are just not any better than they were 20 years ago and that's really sad.<br><br>I also have no interest in the on-line games or chat rooms.<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RRVQGE3M6NLEA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09NR21ST7",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on December 9, 2024",
+          "utc": "2024-12-09T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Mac Cat",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEBAW5CXGCOENQASQA53HDLCPINA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEBAW5CXGCOENQASQA53HDLCPINA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R5RNIJ4IXMWO0",
+        "title": "Great",
+        "body": "Gracias excelente Read more",
+        "asin": "B09NR21ST7",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Gracias excelente<br></span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R5RNIJ4IXMWO0/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09NR21ST7",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 22, 2024",
+          "utc": "2024-11-22T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Liz y Abel",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEBNUOWDZ25JXFLNNEUVYTASSTCQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEBNUOWDZ25JXFLNNEUVYTASSTCQ",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/b7239f4d-7faa-4ca7-be32-94996f67eb92._CR0%2C0%2C374%2C374_UX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R3ESQ2L1OPWKSV",
+        "title": "Like everyones been saying",
+        "body": "Damaged box during shipping, but works okay Read more",
+        "asin": "B09NR21ST7",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Damaged box during shipping, but works okay<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3ESQ2L1OPWKSV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09NR21ST7",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on December 8, 2024",
+          "utc": "2024-12-08T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Dust",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AH4VEZWJKLQU542MMRL27MBPL6VQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH4VEZWJKLQU542MMRL27MBPL6VQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R2TWVDQUS87W3W",
+        "title": "Great item",
+        "body": "Fantastic and fun Read more",
+        "asin": "B09NR21ST7",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Fantastic and fun<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2TWVDQUS87W3W/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09NR21ST7",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 18, 2024",
+          "utc": "2024-11-18T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEX2OLMSAN3H33WAM3USOI7IRXRA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEX2OLMSAN3H33WAM3USOI7IRXRA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R32ZVCZ43TPN44",
+        "title": "Xbox",
+        "body": "Hubby loves it Read more",
+        "asin": "B09NR21ST7",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Hubby loves it<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R32ZVCZ43TPN44/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09NR21ST7",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on October 28, 2024",
+          "utc": "2024-10-28T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "dona theisen",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHC5FE6IEYFIACQ4LK7EULCFS2FA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHC5FE6IEYFIACQ4LK7EULCFS2FA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1VAPBRE3MOUNV",
+        "title": "It doesn’t work",
+        "body": "They sent me a used and broken xbox Read more",
+        "asin": "B09NR21ST7",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>They sent me a used and broken xbox<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1VAPBRE3MOUNV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09NR21ST7",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on November 27, 2024",
+          "utc": "2024-11-27T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jd Ybanez",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AG6235TXLRGVDPA5AQHFMXWJJM3Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG6235TXLRGVDPA5AQHFMXWJJM3Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R18SROU2T20IKX",
+        "title": "Perfect",
+        "body": "Good service Read more",
+        "asin": "B09NR21ST7",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Good service<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R18SROU2T20IKX/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09NR21ST7",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on October 3, 2024",
+          "utc": "2024-10-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "cLynn",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFPSQ3GPS27ZWDIMUJCXJKRNM2DA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFPSQ3GPS27ZWDIMUJCXJKRNM2DA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "us",
+        "is_global_review": false
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 3,
+        "hard_maximum": false
+      },
+      "secondary_buybox": {
+        "offer_id": "xQuPgEcav4dx9oHPg%2FyWfzsajOmiReIqHlwYrZ5COuQLjzKFVuyYnqyxDUETCJLCZU8nCZJR%2FrFZPIl1bYL70%2BQlpGnXDaMCtgWyniizAm%2B0czvKVmD4A5a89v1caLFnu%2B8oophYLPcKFjfAiYS9kTBEaXk3RhfoRCXbZwX%2FPu7Le2lc4x3eo%2BOiKmRAqfoi",
+        "caption": "Save with Used - Good",
+        "availability": {
+          "raw": "FREE delivery December 19 - 24. Details"
+        }
+      },
+      "offer_id": "xQuPgEcav4dx9oHPg/yWfzsajOmiReIqHlwYrZ5COuQLjzKFVuyYnqyxDUETCJLCZU8nCZJR/rFZPIl1bYL70+QlpGnXDaMCtgWyniizAm+0czvKVmD4A5a89v1caLFnu+8oophYLPcKFjfAiYS9kTBEaXk3RhfoRCXbZwX/Pu7Le2lc4x3eo+OiKmRAqfoi",
+      "mixed_offers_count": 35,
+      "mixed_offers_from": {
+        "symbol": "$",
+        "value": 440,
+        "currency": "USD",
+        "raw": "$440.00"
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "Only 2 left in stock - order soon.",
+        "dispatch_days": 1,
+        "stock_level": 2
+      },
+      "fulfillment": {
+        "type": "3p",
+        "holiday_message": "Arrives before ChristmasArrives before Christmas",
+        "standard_delivery": {
+          "date": "Friday, December 13",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Tomorrow, December 12",
+          "name": "Or fastest delivery Tomorrow, December 12. Order within 7 hrs 48 mins. Details"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "BLZ Distributor",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2MTVV0FMAOCF1&asin=B09NR21ST7&ref_=dp_merchant_link",
+          "id": "A2MTVV0FMAOCF1"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 570,
+        "currency": "USD",
+        "raw": "$570.00"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 570,
+        "currency": "USD",
+        "raw": "$570.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Platform",
+        "value": "No Operating System"
+      },
+      {
+        "name": "Input Device",
+        "value": "Gamepad"
+      },
+      {
+        "name": "Brand",
+        "value": "Microsoft"
+      },
+      {
+        "name": "Model Name",
+        "value": "Series"
+      },
+      {
+        "name": "Color",
+        "value": "black"
+      },
+      {
+        "name": "Memory Storage Capacity",
+        "value": "1 TB"
+      },
+      {
+        "name": "Resolution",
+        "value": "8K"
+      },
+      {
+        "name": "Wireless Communication Technology",
+        "value": "Wi-Fi"
+      },
+      {
+        "name": "Connectivity Technology",
+        "value": "HDMI"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "3.9    3.9 out of 5 stars         24 ratings          3.9 out of 5 stars"
+      },
+      {
+        "name": "UPC",
+        "value": "753569559976"
+      },
+      {
+        "name": "ASIN",
+        "value": "B09NR21ST7"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#521 in Video Games (See Top 100 in Video Games) #1 in Xbox One Consoles"
+      },
+      {
+        "name": "Model Number",
+        "value": "X"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Microsoft"
+      }
+    ],
+    "specifications_flat": "Manufacturer: Microsoft. Model Number: X. Best Sellers Rank: #521 in Video Games (See Top 100 in Video Games) #1 in Xbox One Consoles. ASIN: B09NR21ST7. UPC: 753569559976. Customer Reviews: 3.9    3.9 out of 5 stars         24 ratings          3.9 out of 5 stars. Connectivity Technology: HDMI. Wireless Communication Technology: Wi-Fi. Resolution: 8K. Memory Storage Capacity: 1 TB. Color: black. Model Name: Series. Brand: Microsoft. Input Device: Gamepad. Platform: No Operating System.",
+    "bestsellers_rank": [
+      {
+        "category": "Video Games",
+        "rank": 521,
+        "link": "https://www.amazon.com/gp/bestsellers/videogames/ref=pd_zg_ts_videogames"
+      },
+      {
+        "category": "Xbox One Consoles",
+        "rank": 1,
+        "link": "https://www.amazon.com/gp/bestsellers/videogames/6469295011/ref=pd_zg_hrsr_videogames"
+      }
+    ],
+    "platform": "No Operating System",
+    "color": "black",
+    "manufacturer": "Microsoft",
+    "model_number": "X",
+    "bestsellers_rank_flat": "Category: Video Games | Rank: 521, Category: Xbox One Consoles | Rank: 1",
+    "whats_in_the_box": [
+      "1"
+    ]
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 635.57,
+      "currency": "USD",
+      "raw": "$635.57"
+    },
+    "products": [
+      {
+        "asin": "B09NR21ST7",
+        "title": "Microsoft Xbox Series X 1TB Gaming Console Console + 1 Wireless Controller - Backward Compatible with Thousands of Games, Fine-Tuned Performance, True 4K Gaming, Up to 120 FPS - HDMI_Cable",
+        "link": "https://www.amazon.com/dp/B09NR21ST7",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71aBXvHYUpL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 440,
+          "currency": "USD",
+          "raw": "$440.00"
+        }
+      },
+      {
+        "asin": "B00F4CF39C",
+        "title": "MENEEA Cooling Fan Dust Proof for Xbox Series X Console with Colorful Light Strip,MENEEA Dust Cover Filter,Rubber Dust Plugs,Low Noise Top Fan with 3 Gears,Cooler&Light Independent Touch Switch, 2 USB Port",
+        "link": "https://www.amazon.com/dp/B00F4CF39C",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/711VHA32kwL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 29.59,
+          "currency": "USD",
+          "raw": "$29.59"
+        }
+      },
+      {
+        "asin": "B00F4CF39C",
+        "title": "CODOGOY Vertical Charging Stand with Cooling Fan, Compatible with Xbox Series X/S Console and Controller, Dual Controller Charger Station Dock Accessories with 3 USB Ports",
+        "link": "https://www.amazon.com/dp/B00F4CF39C",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51n+3sMtb8L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 42.99,
+          "currency": "USD",
+          "raw": "$42.99"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0BP9SNVH9",
+    "link": "https://www.amazon.com/dp/B0BP9SNVH9/ref=vp_d_cpf-substitute-widget-prodsubs_pd?_encoding=UTF8&pf_rd_p=6744b48d-b100-49a9-b320-48a8d73f3779&pf_rd_r=46KGJBVFDHPWFABF0KYW&pd_rd_wg=yNNDG&pd_rd_i=B0BP9SNVH9&pd_rd_w=Ga6xL&content-id=amzn1.sym.6744b48d-b100-49a9-b320-48a8d73f3779&pd_rd_r=111c63c5-22c8-4f3e-804e-cdb3e81853b6&psc=1",
+    "title": "Amazon Fire TV Stick 4K Max (newest model), our most powerful 4K streaming stick with Wi-Fi 6E support, 16GB Storage, free and live tv",
+    "rating": 4.5,
+    "ratings_total": 39571,
+    "image": "https://m.media-amazon.com/images/I/518n2Z-ETbL._SS100_.jpg",
+    "is_prime": true
+  },
+  "also_bought": [
+    {
+      "title": "Amazon Basics Carrying Case for Nintendo Switch Console and Accessories - 10.31 x 2.36 x 5.24 inches, Black",
+      "asin": "B07DVZSSFD",
+      "link": "https://www.amazon.com/AmazonBasics-Carrying-Case-Nintendo-Switch-Accessories/dp/B07DVZSSFD/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_1/132-3403742-1361406?pd_rd_w=UEgph&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=46KGJBVFDHPWFABF0KYW&pd_rd_wg=9d0gh&pd_rd_r=4acfa107-fcdf-4122-b67a-7670e82d8d33&pd_rd_i=B07DVZSSFD&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91WeigIwOHL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.7,
+      "ratings_total": 5512,
+      "price": {
+        "symbol": "$",
+        "value": 15.48,
+        "currency": "USD",
+        "raw": "$15.48"
+      }
+    },
+    {
+      "title": "Microsoft RRT-00001 Xbox Series X 1TB SSD Gaming Console with Dual Controllers Bundle with 3 YR CPS Enhanced Protection Pack",
+      "asin": "B0DCS1XFV6",
+      "link": "https://www.amazon.com/Microsoft-RRT-00001-Xbox-Controllers-Protection-X/dp/B0DCS1XFV6/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_2/132-3403742-1361406?pd_rd_w=UEgph&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=46KGJBVFDHPWFABF0KYW&pd_rd_wg=9d0gh&pd_rd_r=4acfa107-fcdf-4122-b67a-7670e82d8d33&pd_rd_i=B0DCS1XFV6&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51O3n+m0pLL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.2,
+      "ratings_total": 8,
+      "price": {
+        "symbol": "$",
+        "value": 613.88,
+        "currency": "USD",
+        "raw": "$613.88"
+      }
+    },
+    {
+      "title": "Xbox Series X Console (Renewed)",
+      "asin": "B0CJ3XWXP8",
+      "link": "https://www.amazon.com/Xbox-X-Console-Renewed/dp/B0CJ3XWXP8/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_3/132-3403742-1361406?pd_rd_w=UEgph&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=46KGJBVFDHPWFABF0KYW&pd_rd_wg=9d0gh&pd_rd_r=4acfa107-fcdf-4122-b67a-7670e82d8d33&pd_rd_i=B0CJ3XWXP8&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ojzJk77qL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.1,
+      "ratings_total": 1578,
+      "price": {
+        "symbol": "$",
+        "value": 440.1,
+        "currency": "USD",
+        "raw": "$440.10"
+      }
+    },
+    {
+      "title": "Xbox Series X – 1TB Digital Edition",
+      "asin": "B0DCD9LGHY",
+      "link": "https://www.amazon.com/Xbox-X-1TB-Digital/dp/B0DCD9LGHY/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_4/132-3403742-1361406?pd_rd_w=UEgph&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=46KGJBVFDHPWFABF0KYW&pd_rd_wg=9d0gh&pd_rd_r=4acfa107-fcdf-4122-b67a-7670e82d8d33&pd_rd_i=B0DCD9LGHY&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51bcwM0qLaL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.5,
+      "ratings_total": 77,
+      "price": {
+        "symbol": "$",
+        "value": 46300,
+        "currency": "USD",
+        "raw": "$46300"
+      }
+    },
+    {
+      "title": "Microsoft Xbox Series X 1TB SSD Forza Horizon 5 Bundle with Extra Wireless Controller - Carbon Black",
+      "asin": "B0BTDXKSNX",
+      "link": "https://www.amazon.com/Microsoft-Xbox-Horizon-Bundle-Wireless-Controller/dp/B0BTDXKSNX/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_5/132-3403742-1361406?pd_rd_w=UEgph&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=46KGJBVFDHPWFABF0KYW&pd_rd_wg=9d0gh&pd_rd_r=4acfa107-fcdf-4122-b67a-7670e82d8d33&pd_rd_i=B0BTDXKSNX&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61P31ep1p7L._AC_UL165_SR165,165_.jpg",
+      "rating": 3.5,
+      "ratings_total": 13,
+      "price": {
+        "symbol": "$",
+        "value": 676.11,
+        "currency": "USD",
+        "raw": "$676.11"
+      }
+    },
+    {
+      "title": "Xbox Series X 1TB SSD Console - Includes Xbox Wireless Controller - Up to 120 frames per second - 16GB RAM 1TB SSD - Experien",
+      "asin": "B08H75RTZ8",
+      "link": "https://www.amazon.com/Microsoft-Xbox-Gaming-Console-video-game/dp/B08H75RTZ8/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_6/132-3403742-1361406?pd_rd_w=UEgph&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=46KGJBVFDHPWFABF0KYW&pd_rd_wg=9d0gh&pd_rd_r=4acfa107-fcdf-4122-b67a-7670e82d8d33&pd_rd_i=B08H75RTZ8&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616klipzdtL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.8,
+      "ratings_total": 28907,
+      "price": {
+        "symbol": "$",
+        "value": 498,
+        "currency": "USD",
+        "raw": "$498.00"
+      }
+    }
+  ]
+}

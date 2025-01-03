@@ -1,0 +1,1229 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 11,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0CL5KNB9M",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2024-12-11T10:41:01.803Z",
+    "processed_at": "2024-12-11T10:41:07.825Z",
+    "total_time_taken": 6.02,
+    "amazon_url": "https://www.amazon.com/dp/B0CL5KNB9M?th=1&psc=1"
+  },
+  "product": {
+    "title": "PlayStation®5 Digital Edition (slim)",
+    "search_alias": {
+      "title": "Video Games",
+      "value": "videogames"
+    },
+    "keywords": "PlayStation®5,Digital,Edition,(slim)",
+    "keywords_list": [
+      "PlayStation®5",
+      "Digital",
+      "Edition",
+      "(slim)"
+    ],
+    "is_collection": false,
+    "asin": "B0CL5KNB9M",
+    "parent_asin": "B0DPBDSKHP",
+    "link": "https://www.amazon.com/PlayStation%C2%AE5-Digital-slim-PlayStation-5/dp/B0CL5KNB9M",
+    "brand": "PlayStation",
+    "protection_plans": [
+      {
+        "asin": "B07P6YXMK4",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 36.99,
+          "currency": "USD",
+          "raw": "$36.99"
+        }
+      },
+      {
+        "asin": "B07PC35J78",
+        "title": "3-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 48.99,
+          "currency": "USD",
+          "raw": "$48.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Asurion Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B0DCQJ5W34",
+        "title": "NBA 2K25 Bundle",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0DCQJ5W34?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "NBA 2K25 Bundle"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71h7bSfbgJL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71h7bSfbgJL._SL1500_.jpg"
+          },
+          {
+            "variant": "FRNT",
+            "link": "https://m.media-amazon.com/images/I/61eRY8jPkGL._SL1500_.jpg"
+          },
+          {
+            "variant": "SIDE",
+            "link": "https://m.media-amazon.com/images/I/71gvReVEKYL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CL5KNB9M",
+        "title": "PlayStation®5 Digital Edition (slim)",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B0CL5KNB9M?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "PlayStation®5 Digital Edition (slim)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51fM0CKG+HL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51fM0CKG+HL._SL1500_.jpg"
+          },
+          {
+            "variant": "FRNT",
+            "link": "https://m.media-amazon.com/images/I/51v1iiwtHkL._SL1500_.jpg"
+          },
+          {
+            "variant": "SIDE",
+            "link": "https://m.media-amazon.com/images/I/61JfWpdLjYL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0DJHG2VVS",
+        "title": "Fortnite Cobalt Star Digital Edition",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0DJHG2VVS?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Fortnite Cobalt Star Digital Edition"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71DNVcvUJOL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71DNVcvUJOL._SL1500_.jpg"
+          },
+          {
+            "variant": "FRNT",
+            "link": "https://m.media-amazon.com/images/I/71jxRhHusFL._SL1500_.jpg"
+          },
+          {
+            "variant": "SIDE",
+            "link": "https://m.media-amazon.com/images/I/71mxn8ujZBL._SL1500_.jpg"
+          },
+          {
+            "variant": "BACK",
+            "link": "https://m.media-amazon.com/images/I/71ysMxQZPDL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CL61F39H",
+        "title": "PlayStation®5 console (slim)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0CL61F39H?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "PlayStation®5 console (slim)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/41ECK5cY-2L._SL1000_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/41ECK5cY-2L._SL1000_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/41srF-iY93L._SL1000_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/41tVr19I3zL._SL1000_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/41HMaO9jO3L._SL1000_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/41j1HIUsoqL._SL1000_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0DJHF6Q9Z",
+        "title": "Fortnite Cobalt Star Disc Edition",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0DJHF6Q9Z?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Fortnite Cobalt Star Disc Edition"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71ZjTusky7L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71ZjTusky7L._SL1500_.jpg"
+          },
+          {
+            "variant": "FRNT",
+            "link": "https://m.media-amazon.com/images/I/71DrWN8sb8L._SL1500_.jpg"
+          },
+          {
+            "variant": "SIDE",
+            "link": "https://m.media-amazon.com/images/I/71iCL0loW5L._SL1500_.jpg"
+          },
+          {
+            "variant": "BACK",
+            "link": "https://m.media-amazon.com/images/I/71WTIDn2fpL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CKZGY5B6",
+        "title": "Marvel’s Spider-Man 2 Bundle (slim)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0CKZGY5B6?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Marvel’s Spider-Man 2 Bundle (slim)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71rWPpdhwgL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71rWPpdhwgL._SL1500_.jpg"
+          },
+          {
+            "variant": "FRNT",
+            "link": "https://m.media-amazon.com/images/I/71l3GXe0m5L._SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variants_asin_flat": "B0DCQJ5W34,B0CL5KNB9M,B0DJHG2VVS,B0CL61F39H,B0DJHF6Q9Z,B0CKZGY5B6",
+    "proposition_65_warning": false,
+    "format": "PlayStation 5",
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Video Games",
+        "link": "https://www.amazon.com/computer-video-games-hardware-accessories/b/ref=dp_bc_aui_C_1?ie=UTF8&node=468642",
+        "category_id": "468642"
+      },
+      {
+        "name": "PlayStation 5",
+        "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_2?ie=UTF8&node=20972781011",
+        "category_id": "20972781011"
+      },
+      {
+        "name": "Consoles",
+        "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_3?ie=UTF8&node=20972796011",
+        "category_id": "20972796011"
+      }
+    ],
+    "categories_flat": "Video Games > PlayStation 5 > Consoles",
+    "description": "Play Like Never Before. The PS5 Digital Edition unleashes new gaming possibilities that you never anticipated. Experience lightning fast loading with an ultra-high speed SSD, deeper immersion with support for haptic feedback, adaptive triggers, and 3D Audio*,and an all-new generation of incredible PlayStation® games. PS5 Digital Edition is an all-digital version of the PS5 console with no disc drive. Sign into your account for PlayStation Network and go to PlayStation Store to buy and download games (Account for PlayStation Network required). Lightning Speed - Harness the power of a custom CPU, GPU, and SSD with Integrated I/O that rewrite the rules of what a PlayStation console can do. Stunning Games - Marvel at incredible graphics and experience new PS5 features. Play a back catalog of supported PS4 games. Breathtaking Immersion - Discover a deeper gaming experience with support for haptic feedback, adaptive triggers, and 3D Audio technology. *3D audio via built-in TV speakers or analog/USB stereo headphones. Set up and latest system software update required.",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the PlayStation Store",
+      "link": "https://www.amazon.com/stores/PlayStationPlayHasNoLimits/page/5AF5EF82-86EF-4699-B450-C232B3BD720E?ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "amazons_choice": {
+      "keywords": ""
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.7,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 87,
+        "count": 7640
+      },
+      "four_star": {
+        "percentage": 5,
+        "count": 439
+      },
+      "three_star": {
+        "percentage": 2,
+        "count": 175
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 87
+      },
+      "one_star": {
+        "percentage": 5,
+        "count": 439
+      }
+    },
+    "ratings_total": 8782,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/51fM0CKG+HL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/51fM0CKG+HL._SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51v1iiwtHkL._SL1500_.jpg",
+        "variant": "FRNT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61JfWpdLjYL._SL1500_.jpg",
+        "variant": "SIDE"
+      }
+    ],
+    "images_count": 3,
+    "images_flat": "https://m.media-amazon.com/images/I/51fM0CKG+HL._SL1500_.jpg,https://m.media-amazon.com/images/I/51v1iiwtHkL._SL1500_.jpg,https://m.media-amazon.com/images/I/61JfWpdLjYL._SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 20,
+        "width": 1920,
+        "height": 1080,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8af0ddf1-55f5-4e71-9463-39602c3edbae/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/41CCFesK0rL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "PlayStation 5 Slim Reveal Trailer"
+      },
+      {
+        "duration_seconds": 117,
+        "width": 1920,
+        "height": 1080,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c83dbf11-63ee-404a-9af0-5fb6b0dba63f/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51my4qmeyEL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "COMPARING GRAPHIC -  PlayStation 5 Pro VS Slim"
+      },
+      {
+        "duration_seconds": 141,
+        "width": 1080,
+        "height": 1918,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4373b529-f7c3-45d3-8abe-d83909b97301/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/614urd2v-5L.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "Honest review of the PlayStation5 Digital Edition "
+      },
+      {
+        "duration_seconds": 1122,
+        "width": 1920,
+        "height": 1080,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/05e58aa9-ef5d-42b2-98fc-7d09603582fb/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61bz98z9srL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "PS5 OR Xbox Series X Which Console Should You Get ?"
+      },
+      {
+        "duration_seconds": 252,
+        "width": 1920,
+        "height": 1080,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/75286ecd-8bc0-46b6-865a-2a043f38fd06/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91SPZoeP63L.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "How To Install A SSD On A Playstation 5"
+      },
+      {
+        "duration_seconds": 153,
+        "width": 1920,
+        "height": 1080,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/22e3a06f-0950-4e16-a803-4b64d97e8f4b/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/914dVg9437L.SX522_.png",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "How To Transfer Your Data From PS5 Slim To PS5 Pro Console?"
+      }
+    ],
+    "videos_count": 6,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8af0ddf1-55f5-4e71-9463-39602c3edbae/default.jobtemplate.hls.m3u8,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c83dbf11-63ee-404a-9af0-5fb6b0dba63f/default.jobtemplate.hls.m3u8,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4373b529-f7c3-45d3-8abe-d83909b97301/default.vertical.jobtemplate.hls.m3u8,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/05e58aa9-ef5d-42b2-98fc-7d09603582fb/default.jobtemplate.hls.m3u8,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/75286ecd-8bc0-46b6-865a-2a043f38fd06/default.jobtemplate.hls.m3u8,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/22e3a06f-0950-4e16-a803-4b64d97e8f4b/default.jobtemplate.hls.m3u8",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.09e1eb6ea1184c39aa57cca7f79c4129",
+        "product_asin": "B0CL5KNB9M",
+        "parent_asin": "B0DPBDSKHP",
+        "related_products": "B0CL61F39H",
+        "title": "My thoughts on PS5 console ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B14DEOscXAL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/niila718",
+        "public_name": "Nila ",
+        "creator_type": "Influencer",
+        "vendor_code": "niila718:shop",
+        "vendor_name": "Nila ",
+        "vendor_tracking_id": "onamzdionilac-20",
+        "video_image_id": "81aFHs0LB4L",
+        "video_image_url": "https://m.media-amazon.com/images/I/81aFHs0LB4L._CR0,0,837,472_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81aFHs0LB4L.jpg",
+        "video_image_width": "837",
+        "video_image_height": "579",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d43e6c2b-e2f0-49a6-8aea-3f41221b554c/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d8c4353c-8b5c-4151-9b3c-606fb5a20d60/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d8c4353c-8b5c-4151-9b3c-606fb5a20d60/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:30",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/25fa65bf-dc44-4ab0-9031-425eecc6b6c4.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0576157b2413497cae7915e609519b2e",
+        "product_asin": "B0CL5KNB9M",
+        "parent_asin": "B0DPBDSKHP",
+        "related_products": "B0CL5KNB9M,B0D9PG4XT3",
+        "title": "Honest review of the PlayStation5 Digital Edition ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81rNyEB8bZL._CR84,48,355,356_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/kbarber2016",
+        "public_name": "Kristina Barber",
+        "creator_type": "Influencer",
+        "vendor_code": "kbarber2016:shop",
+        "vendor_name": "Kristina Barber",
+        "vendor_tracking_id": "onamzkri0f693-20",
+        "video_image_id": "614urd2v-5L",
+        "video_image_url": "https://m.media-amazon.com/images/I/614urd2v-5L._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/614urd2v-5L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1136",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4373b529-f7c3-45d3-8abe-d83909b97301/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/070b0c36-ed95-43ae-afab-e8275c4f6007/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/070b0c36-ed95-43ae-afab-e8275c4f6007/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:21",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/147d453f-22e0-41a0-8b8e-2cb88ddb9d8b.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0ca7e4ecd3cf4063aa9e04962a2db879",
+        "product_asin": "B0CL5KNB9M",
+        "parent_asin": "B0DPBDSKHP",
+        "related_products": "B0CL5KNB9M,B0CSK4LJ4V,B0D9PG4XT3",
+        "title": "Reviewing PS5 and PS5 wall mount ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1o1XD1CspL._CR0,114,1242,1242_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/fitgrannybyrd",
+        "public_name": "Maria Byrd",
+        "creator_type": "Influencer",
+        "vendor_code": "fitgrannybyrd:shop",
+        "vendor_name": "Maria Byrd",
+        "vendor_tracking_id": "onamzmar09918-20",
+        "video_image_id": "A1MPa1NLwzL",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1MPa1NLwzL._CR0,0,1241,700_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1MPa1NLwzL.jpg",
+        "video_image_width": "1241",
+        "video_image_height": "1791",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cf2c3e47-8527-4403-9f63-5ff4a556b5f6/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/10a9a932-cff2-4904-a281-9b1ca5ab0867/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/10a9a932-cff2-4904-a281-9b1ca5ab0867/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:05",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/9fcad6fe-15bb-4c9b-91ec-4b81c5283d10.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0ff5f9d5b6144e3ba4ce906b52987a49",
+        "product_asin": "B0CL5KNB9M",
+        "parent_asin": "B0DPBDSKHP",
+        "related_products": "B0CL5KNB9M,B0D9PG4XT3",
+        "title": "PS5 One Year Update | Does It Overheat and Is it Worth It?",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/relativelyrichlife_1657210310414_original._CR490,319,1843,1843_._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/relativelyrichlife",
+        "public_name": "Relatively Rich Life",
+        "creator_type": "Influencer",
+        "vendor_code": "relativelyrichlife:shop",
+        "vendor_name": "Relatively Rich Life",
+        "vendor_tracking_id": "onamzfreewith-20",
+        "video_image_id": "71kRqUKDblL",
+        "video_image_url": "https://m.media-amazon.com/images/I/71kRqUKDblL._CR0,0,1179,665_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71kRqUKDblL.jpg",
+        "video_image_width": "1179",
+        "video_image_height": "720",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f8c7c8a3-dc1c-48ed-8d37-fcaf44c8b50f/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3ed81528-1cae-41d4-89f8-079a957c0495/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3ed81528-1cae-41d4-89f8-079a957c0495/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:58",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/94882abc-24d3-40e0-bb44-45634742bc2b.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.00ef4198c5a6456886856187f8836b6d",
+        "product_asin": "B0CL5KNB9M",
+        "parent_asin": "B0DPBDSKHP",
+        "related_products": "B0CL61F39H,B0DGY63Z2H,B0CL5KNB9M,B0D9PG4XT3",
+        "title": "COMPARING GRAPHIC -  PlayStation 5 Pro VS Slim",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/leontruong_1680271079463_original._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/leontruong",
+        "public_name": "Tech By Leon",
+        "creator_type": "Influencer",
+        "vendor_code": "leontruong:shop",
+        "vendor_name": "Tech By Leon",
+        "vendor_tracking_id": "onamzleontruo-20",
+        "video_image_id": "51my4qmeyEL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51my4qmeyEL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51my4qmeyEL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c83dbf11-63ee-404a-9af0-5fb6b0dba63f/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/98bd1d27-4a8e-4ff4-88c0-e2dbe87e5fb6/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/98bd1d27-4a8e-4ff4-88c0-e2dbe87e5fb6/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:57",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/48354dcb-0ffc-47d7-882b-4f25909b25fa.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0255243d134b4e1885a3ae569610f335",
+        "product_asin": "B0CL5KNB9M",
+        "parent_asin": "B0DPBDSKHP",
+        "related_products": "B0CL5KNB9M,B0D9PG4XT3",
+        "title": "PlayStation 5! Sleek, next gen, top notch design! ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81i7seycJ9L._CR0,0,1179,1179_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/busy.mom.fit",
+        "public_name": "RDM Collective ",
+        "creator_type": "Influencer",
+        "vendor_code": "busy.mom.fit:shop",
+        "vendor_name": "RDM Collective ",
+        "vendor_tracking_id": "onamzdking072-20",
+        "video_image_id": "71HnQI+sFKL",
+        "video_image_url": "https://m.media-amazon.com/images/I/71HnQI+sFKL._CR0,0,823,464_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71HnQI+sFKL.jpg",
+        "video_image_width": "823",
+        "video_image_height": "1476",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/483016d5-834d-4981-9e45-1cc6af1dcf9c/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/93b53150-71af-46e7-8b2f-6cdfff083119/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/93b53150-71af-46e7-8b2f-6cdfff083119/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:44",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/2943a4ff-f15a-41ec-8827-42e4164e62dc.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0fe3cef1cdcc497c93b21088d03875de",
+        "product_asin": "B0CL5KNB9M",
+        "parent_asin": "B0DPBDSKHP",
+        "related_products": "B0CL5KNB9M,B0D9PG4XT3",
+        "title": "What you should know about the PS5 Slim!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/D1e+24KWfoL._CR9,0,2942,2942_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/erinschmidt",
+        "public_name": "Erin Schmidt",
+        "creator_type": "Influencer",
+        "vendor_code": "erinschmidt:shop",
+        "vendor_name": "Erin Schmidt",
+        "vendor_tracking_id": "onamzerinschm-20",
+        "video_image_id": "A1Il80ODsWL",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1Il80ODsWL._CR143,0,3810,2150_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1Il80ODsWL.jpg",
+        "video_image_width": "4096",
+        "video_image_height": "2150",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7cabffd9-dc1f-43cf-8999-c59b2f24364d/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3e5d41ef-26b2-43fe-9ee6-2dac8d396032/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3e5d41ef-26b2-43fe-9ee6-2dac8d396032/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3e5d41ef-26b2-43fe-9ee6-2dac8d396032/72d38548-429e-401c-821a-da0b5a09785f/0fe3cef1cdcc497c93b21088d03875de_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:52",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/837e3c64-1675-46c1-9891-ddd6de03493e.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0608503e39114a0fb369442807027c18",
+        "product_asin": "B0CL5KNB9M",
+        "parent_asin": "B0DPBDSKHP",
+        "related_products": "B0CL61F39H",
+        "title": "My favorite entertainment console",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1qdRTw-YsL._CR248,1142,1734,1733_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/jessicaposh",
+        "public_name": "Jessica P",
+        "creator_type": "Influencer",
+        "vendor_code": "jessicaposh:shop",
+        "vendor_name": "Jessica P",
+        "vendor_tracking_id": "onamzjes0ec0a-20",
+        "video_image_id": "51WBq3wgnTL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51WBq3wgnTL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51WBq3wgnTL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/57684273-edab-436c-a97e-bc44c565fb0b/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1cd02737-d3af-41b3-bab9-596dc6e21a8f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1cd02737-d3af-41b3-bab9-596dc6e21a8f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:58",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/592309f7-750d-4ed7-afc6-a9b2bbfefe92.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0087b387dbde438c90841ac4cbb8e534",
+        "product_asin": "B0CL5KNB9M",
+        "parent_asin": "B0DPBDSKHP",
+        "related_products": "B0CL5KNB9M,B0D9PG4XT3",
+        "title": "PS5 Digital Edition: Is It Worth the Hype?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/51pcC65c0oL._CR0,0,1024,1024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/thestoriesofbaseball",
+        "public_name": "Cain Brands Reviews",
+        "creator_type": "Influencer",
+        "vendor_code": "thestoriesofbaseball:shop",
+        "vendor_name": "Cain Brands Reviews",
+        "vendor_tracking_id": "onamzcainbr02-20",
+        "video_image_id": "51eU6tvMNIL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51eU6tvMNIL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51eU6tvMNIL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/75bd769a-dde6-4ebb-ad7d-50ee418844a0/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8a1ea050-447f-4ad5-a50c-589db219606e/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8a1ea050-447f-4ad5-a50c-589db219606e/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:22",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/6e075439-00b7-41b7-9a66-17bba69288ed.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.056d43e4f6914ca6adb943ce2df5bd3d",
+        "product_asin": "B0CL5KNB9M",
+        "parent_asin": "B0DPBDSKHP",
+        "related_products": "B0CL5KNB9M,B0CL5HJNLM,B0D9PG4XT3",
+        "title": "Installing Disc Drive on PlayStation 5 Digital Edition",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/leontruong_1680271079463_original._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/leontruong",
+        "public_name": "Tech By Leon",
+        "creator_type": "Influencer",
+        "vendor_code": "leontruong:shop",
+        "vendor_name": "Tech By Leon",
+        "vendor_tracking_id": "onamzleontruo-20",
+        "video_image_id": "51ebAh1bLWL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51ebAh1bLWL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51ebAh1bLWL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5e4ed643-fd38-4b83-bb30-f1b5fe62b336/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ea5f1a4f-e66d-45f4-809c-455fd5dcc97d/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ea5f1a4f-e66d-45f4-809c-455fd5dcc97d/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ea5f1a4f-e66d-45f4-809c-455fd5dcc97d/dc02ac0e-ccf4-464a-97c4-e946b1842f46/056d43e4f6914ca6adb943ce2df5bd3d_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:54",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/71be2bd9-24d0-4b0e-9b4d-4833d58d699a.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "Model Number CFI-2000",
+      "Includes DualSense Wireless Controller, 1TB SSD, 2 Horizontal Stand Feet, HDMI Cable, AC power cord, USB cable, printed materials, ASTRO’s PLAYROOM (Pre-installed game)",
+      "Vertical Stand sold seperately"
+    ],
+    "feature_bullets_count": 3,
+    "feature_bullets_flat": "Vertical Stand sold seperately. Includes DualSense Wireless Controller, 1TB SSD, 2 Horizontal Stand Feet, HDMI Cable, AC power cord, USB cable, printed materials, ASTRO’s PLAYROOM (Pre-installed game). Model Number CFI-2000.",
+    "top_reviews": [
+      {
+        "id": "R8FIEWMSQ6WH",
+        "title": "Five's No Jive",
+        "body": "A longtime PlayStation fan, I had been putting off getting a PS5 until the three following milestones occurred:  1) a reduction in size of the console 2) a reduction in the price of the console 3) a reduction in the price of games for the console  I thought that the introduction of the PS5 Slim last fall would spur my purchase, but Sony didn't cut the price, and even older PS5 games were still selling for $70.  But finally, during the Days of Play event this spring, Sony knocked $50 off the console's price -- I didn't want the Spiderman or COD bundles, not my favorite games -- and I decided to act. Four years is a LONG time to wait to play a new R&C title, after all!  So here are my thoughts on the PS5, now that's in my house:  1) Setup is remarkably easy, including wirelessly transferring game save information from a PS4. It did take me a while to figure out how to turn off the female voice heralding all my actions (under Accessibility options).  2) The PS5 runs like a champ. So far, I have not been aware of any fan noises or clouds of warm air exhaust spewing out.  3) The DualSense controllers had weaker rumble than I expected. It turns out that the rumble motors default to the \"weak\" setting if you have the controller's microphone enabled. I turned off the mike, and the rumble was back at full force, but with more finesse than that experienced with the PS4's DUALSHOCK controllers. If I'm not mistaken, the precision of the DS controller actually seems to improve my game scores...  4) The new user interface is kind of a mess. In particular, leaving the POWER button off the Home page was a boneheaded move. One of my first issues with the new console was -- how do I turn this bloody beast OFF??? I wish that the controller battery gauge was on the Home page as well.  5) It was a brilliant idea making the disk drive detachable. The one problem I had with my PS4 involved the machine's failure to read disks after a few years, which I am guessing was an issue of a dirty reading head; I sent the console to Sony to be fixed, and it came back working perfectly in one week. Now I assume I can just repair or replace the removable drive without sending in the entire console for repair...  6) Now that the PS5 packs 1 TB of memory, I was wondering how soon I would need to add more memory. Currently, I have plenty of memory to switch back and forth between a number of games, including Ratchet & Clank Rift Apart, plus several from the PS4, including WRC Generations, Far Cry 6, and Resident Evil 4, as well as the Pinball Arcade. One good reason I wanted the disk version of the PS5 was to minimize the size of game downloads to preserve memory.  7) The audio/video performance of the PS5 to play back DVD's and Blu-Rays is outstanding. And I was happy to find that the excellent Bluetooth PDP media controller I got for the PS4 works with the PS5 as well. Yea -- that made me feel better about spending $30 for the PS5's vertical stand instead!  8) And some of the PS5 titles are FINALLY coming down in price: Rift Apart and the latest Star Wars game, for example -- two AAA titles -- are now available for a far more affordable $30.  So if you have been putting off upgrading to a PS5, it may be time at last to make the move, provided you can catch a special promotion.  And to those who say, \"Game consoles' days are numbered,\" I say -- as long as many of us prefer to play games sitting on a couch, enveloped in booming 3D sound and watching our dazzling big-screen TV's -- long live PlayStation consoles -- especially those that serve as a 2-in-1 machine, with built-in (or detachable) disk drives that also play DVD's and BR's! Read more",
+        "asin": "B0CL5KNB9M",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>A longtime PlayStation fan, I had been putting off getting a PS5 until the three following milestones occurred:<br><br>1) a reduction in size of the console<br>2) a reduction in the price of the console<br>3) a reduction in the price of games for the console<br><br>I thought that the introduction of the PS5 Slim last fall would spur my purchase, but Sony didn't cut the price, and even older PS5 games were still selling for $70.<br><br>But finally, during the Days of Play event this spring, Sony knocked $50 off the console's price -- I didn't want the Spiderman or COD bundles, not my favorite games -- and I decided to act. Four years is a LONG time to wait to play a new R&amp;C title, after all!<br><br>So here are my thoughts on the PS5, now that's in my house:<br><br>1) Setup is remarkably easy, including wirelessly transferring game save information from a PS4. It did take me a while to figure out how to turn off the female voice heralding all my actions (under Accessibility options).<br><br>2) The PS5 runs like a champ. So far, I have not been aware of any fan noises or clouds of warm air exhaust spewing out.<br><br>3) The DualSense controllers had weaker rumble than I expected. It turns out that the rumble motors default to the \"weak\" setting if you have the controller's microphone enabled. I turned off the mike, and the rumble was back at full force, but with more finesse than that experienced with the PS4's DUALSHOCK controllers. If I'm not mistaken, the precision of the DS controller actually seems to improve my game scores...<br><br>4) The new user interface is kind of a mess. In particular, leaving the POWER button off the Home page was a boneheaded move. One of my first issues with the new console was -- how do I turn this bloody beast OFF??? I wish that the controller battery gauge was on the Home page as well.<br><br>5) It was a brilliant idea making the disk drive detachable. The one problem I had with my PS4 involved the machine's failure to read disks after a few years, which I am guessing was an issue of a dirty reading head; I sent the console to Sony to be fixed, and it came back working perfectly in one week. Now I assume I can just repair or replace the removable drive without sending in the entire console for repair...<br><br>6) Now that the PS5 packs 1 TB of memory, I was wondering how soon I would need to add more memory. Currently, I have plenty of memory to switch back and forth between a number of games, including Ratchet &amp; Clank Rift Apart, plus several from the PS4, including WRC Generations, Far Cry 6, and Resident Evil 4, as well as the Pinball Arcade. One good reason I wanted the disk version of the PS5 was to minimize the size of game downloads to preserve memory.<br><br>7) The audio/video performance of the PS5 to play back DVD's and Blu-Rays is outstanding. And I was happy to find that the excellent Bluetooth PDP media controller I got for the PS4 works with the PS5 as well. Yea -- that made me feel better about spending $30 for the PS5's vertical stand instead!<br><br>8) And some of the PS5 titles are FINALLY coming down in price: Rift Apart and the latest Star Wars game, for example -- two AAA titles -- are now available for a far more affordable $30.<br><br>So if you have been putting off upgrading to a PS5, it may be time at last to make the move, provided you can catch a special promotion.<br><br>And to those who say, \"Game consoles' days are numbered,\" I say -- as long as many of us prefer to play games sitting on a couch, enveloped in booming 3D sound and watching our dazzling big-screen TV's -- long live PlayStation consoles -- especially those that serve as a 2-in-1 machine, with built-in (or detachable) disk drives that also play DVD's and BR's!<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R8FIEWMSQ6WH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CL5KNB9M",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on June 8, 2024",
+          "utc": "2024-06-08T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jerry P. Danzig",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHCXZZ6R4US43PBVXXVN47OTTVHQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHCXZZ6R4US43PBVXXVN47OTTVHQ",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/4aad4e48-19dd-46d2-8921-0e9ec3ea482f._CR0%2C0%2C216%2C216_UX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 538,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R2E7MCN596BM5T",
+        "title": "PlayStation®5 Console (Slim) Review",
+        "body": "The PlayStation®5 Console (Slim) is a fantastic evolution of the original PS5. It provides all the original's incredible power, performance, and features, but in a smaller, sleeker design. Whether you’re a fan of 4K gaming, ray tracing, or enjoying a next-gen immersive experience, the PS5 Slim delivers in every department. This is a top-tier choice if you're looking for a powerful, future-proof console that takes up less space but doesn’t sacrifice quality.  For gamers who want the best of both worlds—high-performance gaming and a compact form factor the PS5 Slim is undoubtedly worth the investment. Read more",
+        "asin": "B0CL5KNB9M",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The PlayStation®5 Console (Slim) is a fantastic evolution of the original PS5. It provides all the original's incredible power, performance, and features, but in a smaller, sleeker design. Whether you’re a fan of 4K gaming, ray tracing, or enjoying a next-gen immersive experience, the PS5 Slim delivers in every department. This is a top-tier choice if you're looking for a powerful, future-proof console that takes up less space but doesn’t sacrifice quality.<br><br>For gamers who want the best of both worlds—high-performance gaming and a compact form factor the PS5 Slim is undoubtedly worth the investment.<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2E7MCN596BM5T/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CL5KNB9M",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 15, 2024",
+          "utc": "2024-11-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Rowayne",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFU35XSKYSF2YXP23LPCBIYNGRPA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFU35XSKYSF2YXP23LPCBIYNGRPA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 91,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1YXKH6M9S70G6",
+        "title": "works great",
+        "body": "turn it on. clean. shiny. fast load. the only thing is astros playroom pre installed game is the problem. Read more",
+        "asin": "B0CL5KNB9M",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>turn it on. clean. shiny. fast load.<br>the only thing is astros playroom pre installed game is the problem.<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1YXKH6M9S70G6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CL5KNB9M",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 29, 2024",
+          "utc": "2024-11-29T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Elijah J Etienne",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFTFHSOQKSYWL66YPRKD53SOYKKQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFTFHSOQKSYWL66YPRKD53SOYKKQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 18,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R3NS1MC9HHNAXM",
+        "title": "Needed a replacement fast",
+        "body": "Due to unfortunate circumstances my sons PS5 was broken and he wanted to replace it with one like the original build however ship time was long. We ordered this and it was delivered following morning at 5am. Works great and looks great so far ajd he is happy. Delivery was nice and easy. Quiet and on time. Tucked on the side of door so it’s not in plain view to the street. Thoughtful! Read more",
+        "asin": "B0CL5KNB9M",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Due to unfortunate circumstances my sons PS5 was broken and he wanted to replace it with one like the original build however ship time was long. We ordered this and it was delivered following morning at 5am. Works great and looks great so far ajd he is happy. Delivery was nice and easy. Quiet and on time. Tucked on the side of door so it’s not in plain view to the street. Thoughtful!<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3NS1MC9HHNAXM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CL5KNB9M",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on October 27, 2024",
+          "utc": "2024-10-27T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Sachin",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHY3CVBDBPDZCPUNISPKIJEXCNJQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHY3CVBDBPDZCPUNISPKIJEXCNJQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 48,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R26LU6BJ4ADK7N",
+        "title": "PS5 Slim",
+        "body": "PS5 works perfect. Packaged well. The outter box was slightly damaged but that is no big deal.. Read more",
+        "asin": "B0CL5KNB9M",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>PS5 works perfect. Packaged well. The outter box was slightly damaged but that is no big deal..<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R26LU6BJ4ADK7N/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CL5KNB9M",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 5, 2024",
+          "utc": "2024-12-05T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Health is wealth",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGHL57FDLZR7H4NCYOO4SNWFZX3Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGHL57FDLZR7H4NCYOO4SNWFZX3Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 7,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R2MQFM763Y103I",
+        "title": "Works great",
+        "body": "Great price for the ps5 works great Read more",
+        "asin": "B0CL5KNB9M",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Great price for the ps5 works great<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2MQFM763Y103I/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CL5KNB9M",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 4, 2024",
+          "utc": "2024-12-04T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Darius Underwood",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGKENHK7JARI42ED6JXONJZ3ZTEA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGKENHK7JARI42ED6JXONJZ3ZTEA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 7,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "RRO6L7WU1VPHG",
+        "title": "PlayStation 5 — Digital Edition Fortnite Cobalt Star",
+        "body": "I recently purchased the **PlayStation 5 Pro — Digital Edition Fortnite Cobalt Star**, and it’s absolutely incredible! The console’s performance is lightning-fast, thanks to its powerful SSD — games load in just seconds. The 4K HDR graphics are breathtakingly stunning, and the 120 FPS capability delivers ultra-smooth gameplay that’s a treat for the eyes.  The Fortnite Cobalt Star bundle is a fantastic bonus. The exclusive skins and in-game content make it even more fun and give you that special edge in the game. Activating the code in the PlayStation Store was quick and easy.  The DualSense controller takes immersion to a whole new level! The adaptive triggers and haptic feedback make every gaming moment feel real and engaging. It’s a game-changer, literally.  The PS5 Pro has a sleek, modern design, and it’s impressively quiet during operation. The packaging was secure, the delivery was fast, and the product arrived in perfect condition.  This console has exceeded all my expectations! If you’re looking for the ultimate gaming experience, I highly recommend the PlayStation 5 Pro. You won’t be disappointed! 🎮🔥 Read more",
+        "asin": "B0CL5KNB9M",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I recently purchased the **PlayStation 5 Pro — Digital Edition Fortnite Cobalt Star**, and it’s absolutely incredible! The console’s performance is lightning-fast, thanks to its powerful SSD — games load in just seconds. The 4K HDR graphics are breathtakingly stunning, and the 120 FPS capability delivers ultra-smooth gameplay that’s a treat for the eyes.<br><br>The Fortnite Cobalt Star bundle is a fantastic bonus. The exclusive skins and in-game content make it even more fun and give you that special edge in the game. Activating the code in the PlayStation Store was quick and easy.<br><br>The DualSense controller takes immersion to a whole new level! The adaptive triggers and haptic feedback make every gaming moment feel real and engaging. It’s a game-changer, literally.<br><br>The PS5 Pro has a sleek, modern design, and it’s impressively quiet during operation. The packaging was secure, the delivery was fast, and the product arrived in perfect condition.<br><br>This console has exceeded all my expectations! If you’re looking for the ultimate gaming experience, I highly recommend the PlayStation 5 Pro. You won’t be disappointed! 🎮🔥<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RRO6L7WU1VPHG/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CL5KNB9M",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 7, 2024",
+          "utc": "2024-12-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Vitalii",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AE26LHEMRDMC4WCYJ5TP5474RMLA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AE26LHEMRDMC4WCYJ5TP5474RMLA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R33GOF60DWXSWN",
+        "title": "Runs Smooth",
+        "body": "Had an issue with my old digital ps5 shutting off when it would run for a bit on call of duty. So i decided to upgrade to the slim. Everything came in the box. The setup and data transfer took a bit but thats a given, only issue i had is there was a hole in the box like it got dropped or crushed, must be an issue with delivery services and how they handle the box. Read more",
+        "asin": "B0CL5KNB9M",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Had an issue with my old digital ps5 shutting off when it would run for a bit on call of duty. So i decided to upgrade to the slim. Everything came in the box. The setup and data transfer took a bit but thats a given, only issue i had is there was a hole in the box like it got dropped or crushed, must be an issue with delivery services and how they handle the box.<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R33GOF60DWXSWN/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CL5KNB9M",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 6, 2024",
+          "utc": "2024-12-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Nick Bernard",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGIPHHA5PXVT2FSQPVE5FBFTJ5LA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGIPHHA5PXVT2FSQPVE5FBFTJ5LA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 6,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "RP80MUS2TIQW6",
+        "title": "Perfeito!",
+        "body": "Chegou antes mesmo do primeiro dia de prazo e com a embalagem perfeita. Nunca tenho kq ue reclamar da Amazon. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Chegou antes mesmo do primeiro dia de prazo e com a embalagem perfeita. Nunca tenho kq ue reclamar da Amazon.<br></span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Brazil on November 10, 2024",
+          "utc": "2024-11-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Kelven"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "br",
+        "is_global_review": true
+      },
+      {
+        "id": "REHTUUC7IWLJO",
+        "title": "Excelente compra",
+        "body": "Llegó en el tiempo estimado, el empaque bien, el funcionamiento bien. Todo bien con esta compra Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Llegó en el tiempo estimado, el empaque bien, el funcionamiento bien. Todo bien con esta compra<br></span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on October 30, 2024",
+          "utc": "2024-10-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jordi M."
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true
+      },
+      {
+        "id": "RIF1SA9FMMKF9",
+        "title": "الوصف غير المستلم",
+        "body": "انا طالب بلاي استيشن اصدار اسبيدر مان لكن جالي الاصدار العادي مع سيدي اللعبه في النهايه يكفي الغرض Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">انا طالب بلاي استيشن اصدار اسبيدر مان لكن جالي الاصدار العادي مع سيدي اللعبه<br>في النهايه يكفي الغرض<br></span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 2,
+        "date": {
+          "raw": "Reviewed in the United Arab Emirates on January 9, 2024",
+          "utc": "2024-01-09T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "mahmoud fathy"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": true
+      },
+      {
+        "id": "R2BILQO7S3D9K2",
+        "title": "Ps5 slim com leitor de disco",
+        "body": "Muito bom , nova geração , roda liso e tem ótimos jogos , muitos deles gratuitos Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Muito bom , nova geração , roda liso e tem ótimos jogos , muitos deles gratuitos<br></span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Brazil on October 8, 2024",
+          "utc": "2024-10-08T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "caique"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "br",
+        "is_global_review": true
+      },
+      {
+        "id": "R2JDROLHN9FTHO",
+        "title": "Gran compra !!",
+        "body": "Buen producto y gran precio !!! El equipo llego a tiempo y muy bien empacado. Exactamente como se describe en el anuncio. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Buen producto y gran precio !!! El equipo llego a tiempo y muy bien empacado. Exactamente como se describe en el anuncio.<br></span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on July 8, 2024",
+          "utc": "2024-07-08T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Alejandro Hernandez Lopez"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 3,
+        "hard_maximum": true
+      },
+      "mixed_offers_count": 20,
+      "mixed_offers_from": {
+        "symbol": "$",
+        "value": 374,
+        "currency": "USD",
+        "raw": "$374.00"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "holiday_message": "Arrives before Christmas",
+        "standard_delivery": {
+          "date": "December 17 - 18",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Tuesday, December 17",
+          "name": "Or fastest delivery Tuesday, December 17"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 374,
+        "currency": "USD",
+        "raw": "$374.00"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 449.99,
+        "currency": "USD",
+        "raw": "$449.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Memory Storage Capacity",
+        "value": "1 TB"
+      },
+      {
+        "name": "Resolution",
+        "value": "4K"
+      },
+      {
+        "name": "Wireless Communication Technology",
+        "value": "Bluetooth"
+      },
+      {
+        "name": "Input Device",
+        "value": "Gamepad"
+      },
+      {
+        "name": "Connectivity Technology",
+        "value": "HDMI"
+      },
+      {
+        "name": "Platform",
+        "value": "PlayStation 5"
+      },
+      {
+        "name": "Color",
+        "value": "White"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.7    4.7 out of 5 stars         8,782 ratings          4.7 out of 5 stars"
+      },
+      {
+        "name": "UPC",
+        "value": "711719573371"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0CL5KNB9M"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#10 in Video Games (See Top 100 in Video Games) #1 in PlayStation 5 Consoles"
+      },
+      {
+        "name": "Model Number",
+        "value": "CFI-2000"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Sony"
+      },
+      {
+        "name": "Brand",
+        "value": "PlayStation"
+      }
+    ],
+    "specifications_flat": "Brand: PlayStation. Manufacturer: Sony. Model Number: CFI-2000. Best Sellers Rank: #10 in Video Games (See Top 100 in Video Games) #1 in PlayStation 5 Consoles. ASIN: B0CL5KNB9M. UPC: 711719573371. Customer Reviews: 4.7    4.7 out of 5 stars         8,782 ratings          4.7 out of 5 stars. Color: White. Platform: PlayStation 5. Connectivity Technology: HDMI. Input Device: Gamepad. Wireless Communication Technology: Bluetooth. Resolution: 4K. Memory Storage Capacity: 1 TB.",
+    "deal_badge": "Limited time deal",
+    "bestsellers_rank": [
+      {
+        "category": "Video Games",
+        "rank": 10,
+        "link": "https://www.amazon.com/gp/bestsellers/videogames/ref=pd_zg_ts_videogames"
+      },
+      {
+        "category": "PlayStation 5 Consoles",
+        "rank": 1,
+        "link": "https://www.amazon.com/gp/bestsellers/videogames/20972796011/ref=pd_zg_hrsr_videogames"
+      }
+    ],
+    "platform": "PlayStation 5",
+    "color": "White",
+    "manufacturer": "Sony",
+    "model_number": "CFI-2000",
+    "bestsellers_rank_flat": "Category: Video Games | Rank: 10, Category: PlayStation 5 Consoles | Rank: 1"
+  },
+  "brand_store": {
+    "id": "5AF5EF82-86EF-4699-B450-C232B3BD720E",
+    "link": "https://www.amazon.com/stores/PlayStationPlayHasNoLimits/page/5AF5EF82-86EF-4699-B450-C232B3BD720E"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 841.99,
+      "currency": "USD",
+      "raw": "$841.99"
+    },
+    "products": [
+      {
+        "asin": "B0CL5KNB9M",
+        "title": "PlayStation®5 Digital Edition (slim)",
+        "link": "https://www.amazon.com/dp/B0CL5KNB9M",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51fM0CKG+HL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 374,
+          "currency": "USD",
+          "raw": "$374.00"
+        }
+      },
+      {
+        "asin": "B0DGJ7HYG1",
+        "title": "Apple AirPods 4 Wireless Earbuds, Bluetooth Headphones, with Active Noise Cancellation, Adaptive Audio, Transparency Mode, Personalized Spatial Audio, USB-C Charging Case, Wireless Charging, H2 Chip",
+        "link": "https://www.amazon.com/dp/B0DGJ7HYG1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61iBtxCUabL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 168.99,
+          "currency": "USD",
+          "raw": "$168.99"
+        }
+      },
+      {
+        "asin": "B0DDK1WM9K",
+        "title": "Meta Quest 3S 128GB — Get Batman: Arkham Shadow and a 3-Month Trial of Meta Quest+ Included — All-in-One Headset",
+        "link": "https://www.amazon.com/dp/B0DDK1WM9K",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71W5GcQ8-JL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 299,
+          "currency": "USD",
+          "raw": "$299.00"
+        }
+      }
+    ]
+  },
+  "also_bought": [
+    {
+      "title": "PlayStation DualSense® Wireless Controller - White",
+      "asin": "B0CQKLS4RP",
+      "link": "https://www.amazon.com/PlayStation-DualSense%C2%AE-Wireless-Controller-White-5/dp/B0CQKLS4RP/ref=pd_sim_d_sccl_2_1/131-8809825-6750233?pd_rd_w=2L7yi&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=C1XVW1JQ39CRNDG3TCKJ&pd_rd_wg=vfNB6&pd_rd_r=a98ce9da-7867-46e8-be7f-f2c3e91d7e84&pd_rd_i=B0CQKLS4RP&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51PmeLGEkML._AC_UL165_SR165,165_.jpg",
+      "rating": 4.6,
+      "ratings_total": 41826,
+      "price": {
+        "symbol": "$",
+        "value": 54,
+        "currency": "USD",
+        "raw": "$54.00"
+      }
+    },
+    {
+      "title": "PlayStation DualSense Wireless Controller",
+      "asin": "B08HKCM222",
+      "link": "https://www.amazon.com/Playstation-DualSense-Wireless-Controller-PS5-Console/dp/B08HKCM222/ref=pd_sim_d_sccl_2_2/131-8809825-6750233?pd_rd_w=2L7yi&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=C1XVW1JQ39CRNDG3TCKJ&pd_rd_wg=vfNB6&pd_rd_r=a98ce9da-7867-46e8-be7f-f2c3e91d7e84&pd_rd_i=B08HKCM222&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61lJW9LVKqL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.7,
+      "ratings_total": 2462,
+      "price": {
+        "symbol": "$",
+        "value": 74.86,
+        "currency": "USD",
+        "raw": "$74.86"
+      }
+    },
+    {
+      "title": "Pelidox Vertical Stand for PS5 Consoles - Playstation 5 Slim Base Accessories",
+      "asin": "B0CT3DLRF2",
+      "link": "https://www.amazon.com/Pelidox-Vertical-Stand-PS5-Consoles/dp/B0CT3DLRF2/ref=pd_sim_d_sccl_2_3/131-8809825-6750233?pd_rd_w=2L7yi&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=C1XVW1JQ39CRNDG3TCKJ&pd_rd_wg=vfNB6&pd_rd_r=a98ce9da-7867-46e8-be7f-f2c3e91d7e84&pd_rd_i=B0CT3DLRF2&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51AV74LKpJL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.4,
+      "ratings_total": 220,
+      "price": {
+        "symbol": "$",
+        "value": 18.99,
+        "currency": "USD",
+        "raw": "$18.99"
+      }
+    },
+    {
+      "title": "PS5 / PS5 Slim Stand and Cooling Station with LED Controller Charging Station for PlayStation 5 Console, PS5 Controller Charg",
+      "asin": "B08T1KHHR9",
+      "link": "https://www.amazon.com/Controller-Playstation-Charging-Storage-Included-4/dp/B08T1KHHR9/ref=pd_sim_d_sccl_2_4/131-8809825-6750233?pd_rd_w=2L7yi&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=C1XVW1JQ39CRNDG3TCKJ&pd_rd_wg=vfNB6&pd_rd_r=a98ce9da-7867-46e8-be7f-f2c3e91d7e84&pd_rd_i=B08T1KHHR9&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81bHmtysP2L._AC_UL165_SR165,165_.jpg",
+      "rating": 4.5,
+      "ratings_total": 18170,
+      "price": {
+        "symbol": "$",
+        "value": 39.99,
+        "currency": "USD",
+        "raw": "$39.99"
+      }
+    },
+    {
+      "title": "PS5 Controller Charger, PS5 Controller Charging Station Dock, Fast Dual Charging for Dualsense, PlayStation 5 Controller with",
+      "asin": "B09STGMJVK",
+      "link": "https://www.amazon.com/Controller-Intelligent-Protection-Playstation-Dualsense/dp/B09STGMJVK/ref=pd_sim_d_sccl_2_5/131-8809825-6750233?pd_rd_w=2L7yi&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=C1XVW1JQ39CRNDG3TCKJ&pd_rd_wg=vfNB6&pd_rd_r=a98ce9da-7867-46e8-be7f-f2c3e91d7e84&pd_rd_i=B09STGMJVK&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61+eGIypBwL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.7,
+      "ratings_total": 1284,
+      "price": {
+        "symbol": "$",
+        "value": 24.89,
+        "currency": "USD",
+        "raw": "$24.89"
+      }
+    },
+    {
+      "title": "PS5 Slim Stand and Cooling Station with Controller Charging Station for Playsation 5 Slim&Standard Disc/Digital Console, PS5 ",
+      "asin": "B0CP2VZJL8",
+      "link": "https://www.amazon.com/Controller-Charging-Playsation-Standard-Accessories/dp/B0CP2VZJL8/ref=pd_sim_d_sccl_2_6/131-8809825-6750233?pd_rd_w=2L7yi&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=C1XVW1JQ39CRNDG3TCKJ&pd_rd_wg=vfNB6&pd_rd_r=a98ce9da-7867-46e8-be7f-f2c3e91d7e84&pd_rd_i=B0CP2VZJL8&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71u7IUpfmNL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.2,
+      "ratings_total": 147,
+      "price": {
+        "symbol": "$",
+        "value": 42.99,
+        "currency": "USD",
+        "raw": "$42.99"
+      }
+    }
+  ]
+}

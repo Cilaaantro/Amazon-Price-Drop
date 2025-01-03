@@ -1,0 +1,864 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 9,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0CHBN8QD9",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2024-12-11T10:41:14.174Z",
+    "processed_at": "2024-12-11T10:41:23.940Z",
+    "total_time_taken": 9.77,
+    "amazon_url": "https://www.amazon.com/dp/B0CHBN8QD9?th=1&psc=1"
+  },
+  "product": {
+    "title": "Nintendo Switch™ Mario Kart™ 8 Deluxe Bundle (Full Game Download + 3 Mo. Nintendo Switch Online Membership Included)",
+    "search_alias": {
+      "title": "Video Games",
+      "value": "videogames"
+    },
+    "keywords": "Nintendo,Switch™,Mario,Kart™,8,Deluxe,Bundle,(Full,Game,Download,+,3,Mo.,Nintendo,Switch,Online,Membership,Included)",
+    "keywords_list": [
+      "Nintendo",
+      "Switch™",
+      "Mario",
+      "Kart™",
+      "Deluxe",
+      "Bundle",
+      "(Full",
+      "Game",
+      "Download",
+      "Nintendo",
+      "Switch",
+      "Online",
+      "Membership",
+      "Included)"
+    ],
+    "is_collection": false,
+    "asin": "B0CHBN8QD9",
+    "link": "https://www.amazon.com/Nintendo-SwitchTM-Download-Switch-Membership-Included/dp/B0CHBN8QD9",
+    "brand": "Nintendo",
+    "sell_on_amazon": false,
+    "bestseller_badge": {
+      "link": "https://www.amazon.com/gp/bestsellers/videogames/16227130011/ref=zg_b_bs_16227130011_1",
+      "category": "Nintendo Switch Consoles",
+      "badge_text": "#1 Best Seller"
+    },
+    "proposition_65_warning": false,
+    "format": "Nintendo Switch",
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Video Games",
+        "link": "https://www.amazon.com/computer-video-games-hardware-accessories/b/ref=dp_bc_aui_C_1?ie=UTF8&node=468642",
+        "category_id": "468642"
+      },
+      {
+        "name": "Nintendo Switch",
+        "link": "https://www.amazon.com/Nintendo-Switch/b/ref=dp_bc_aui_C_2?ie=UTF8&node=16227128011",
+        "category_id": "16227128011"
+      },
+      {
+        "name": "Consoles",
+        "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_3?ie=UTF8&node=16227130011",
+        "category_id": "16227130011"
+      }
+    ],
+    "categories_flat": "Video Games > Nintendo Switch > Consoles",
+    "description": "This bundle has everything you need to start your Super Mario adventures, including a Nintendo Switch system with Neon Red and Neon Blue Joy-Con controllers. Plus, enjoy an added $68 value* with a download code for the full Mario Kart 8 Deluxe game and a 3-month Nintendo Switch Online Individual Membership**.\n\n\n\nYou can start multiplayer races right out of the box—just pass a Joy-Con controller to a friend and play together on the same system. Or pick up more controllers (sold separately) and get up to 4 people in on the fun.\n\n\n\nPlay at home or on the go with one system\n\n\n\nThe Nintendo Switch system is designed to go wherever you do, instantly transforming from a home console you play on TV to a portable system you can play anywhere. So you get more time to play the games you love, however you like.\n\n\n\nBurn rubber across Mushroom Kingdom courses\n\n\n\nChoose from a roster of 42 characters in Mario Kart 8 Deluxe. Race underwater, in the sky, upside-down in zero-G, and past the finish in 48 courses.\n\n\n\nRace players around the world with Nintendo Switch Online\n\n\n\nWith the included Nintendo Switch Online membership, up to 12 people can play together online in Grand Prix, VS Race, and Battle modes.\n\n\n\nPlus, you can enjoy online play in other multiplayer games like Splatoon 3. A membership also includes access to a 100+ library of class Super NES, NES, and Game Boy games, exclusive special offers, and more.\n\n\n\n*Value based on manufacturer's suggested retail price when purchased separately. Actual savings may vary.\n\n**Any Nintendo Switch Online membership (sold separately) and Nintendo Account required for online features. Membership auto-renews after initial term at the then-current price unless canceled. Not available in all countries. Internet access required for online features. Terms apply.\n\n***Additional games and systems required for multiplayer mode. Sold separately.",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Brand: Nintendo",
+      "link": "https://www.amazon.com/Nintendo/b/ref=bl_dp_s_web_121855826011?ie=UTF8&node=121855826011&field-lbr_brands_browse-bin=Nintendo"
+    },
+    "rating": 4.8,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 90,
+        "count": 2367
+      },
+      "four_star": {
+        "percentage": 4,
+        "count": 105
+      },
+      "three_star": {
+        "percentage": 2,
+        "count": 52
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 26
+      },
+      "one_star": {
+        "percentage": 3,
+        "count": 78
+      }
+    },
+    "ratings_total": 2631,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/811vxk7WqNL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/811vxk7WqNL._SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81hxG6XafkL._SL1500_.jpg",
+        "variant": "FRNT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61zf9ciI0ML._SL1500_.jpg",
+        "variant": "SIDE"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71UiJ0O6vTL._SL1500_.jpg",
+        "variant": "BACK"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61kUrTHMTBL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/41xZWBvVuZL.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81QrtG0Uw0L._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71lAKXmHn2L._SL1280_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/8121ypTCT0L._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81opXPjvQWL._SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81I-BLNB3-L._SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Tma80jQCL._SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 12,
+    "images_flat": "https://m.media-amazon.com/images/I/811vxk7WqNL._SL1500_.jpg,https://m.media-amazon.com/images/I/81hxG6XafkL._SL1500_.jpg,https://m.media-amazon.com/images/I/61zf9ciI0ML._SL1500_.jpg,https://m.media-amazon.com/images/I/71UiJ0O6vTL._SL1500_.jpg,https://m.media-amazon.com/images/I/61kUrTHMTBL._SL1500_.jpg,https://m.media-amazon.com/images/I/41xZWBvVuZL.jpg,https://m.media-amazon.com/images/I/81QrtG0Uw0L._SL1500_.jpg,https://m.media-amazon.com/images/I/71lAKXmHn2L._SL1280_.jpg,https://m.media-amazon.com/images/I/8121ypTCT0L._SL1500_.jpg,https://m.media-amazon.com/images/I/81opXPjvQWL._SL1500_.jpg,https://m.media-amazon.com/images/I/81I-BLNB3-L._SL1500_.jpg,https://m.media-amazon.com/images/I/71Tma80jQCL._SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 66,
+        "width": 1920,
+        "height": 1080,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4d0e510b-4a9c-437c-9036-4566f0dc84ef/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51KUaYjHiSL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Mario Kart 8 Deluxe Accolades Trailer"
+      },
+      {
+        "duration_seconds": 437,
+        "width": 1920,
+        "height": 1080,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/232ba119-0d0d-4e2a-a57d-0d0a46c8c0a3/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61Fbyo7TPLL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "See Why Nintendo Switch is the Best Family Console"
+      },
+      {
+        "duration_seconds": 222,
+        "width": 1922,
+        "height": 1080,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/93396e95-b7a8-4d83-a647-dc0d5ee908c4/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/718wYaOdwQL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "Nintendo Switch Mario Kart 8 Deluxe Bundle"
+      },
+      {
+        "duration_seconds": 279,
+        "width": 1080,
+        "height": 1920,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/52a3f6ea-e8fd-463e-a69b-2072ca1821c2/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91WmbISfnvL.SX522_.png",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "HONEST REVIEW of the Nintendo Switch OLED"
+      },
+      {
+        "duration_seconds": 212,
+        "width": 1920,
+        "height": 1080,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7d73960e-69e0-4af2-9e97-e071ab901c08/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51yTgpLb0FL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "Nintendo Switch - My thoughts"
+      },
+      {
+        "duration_seconds": 120,
+        "width": 1080,
+        "height": 1920,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a2979cfe-c6ae-446c-b3bf-c86ed8d02a56/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61j8+KRJDdL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "Nintendo Switch Mario Kart Bundle: Worth the upgrade?"
+      }
+    ],
+    "videos_count": 6,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4d0e510b-4a9c-437c-9036-4566f0dc84ef/default.jobtemplate.hls.m3u8,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/232ba119-0d0d-4e2a-a57d-0d0a46c8c0a3/default.jobtemplate.hls.m3u8,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/93396e95-b7a8-4d83-a647-dc0d5ee908c4/default.jobtemplate.hls.m3u8,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/52a3f6ea-e8fd-463e-a69b-2072ca1821c2/default.vertical.jobtemplate.hls.m3u8,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7d73960e-69e0-4af2-9e97-e071ab901c08/default.jobtemplate.hls.m3u8,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a2979cfe-c6ae-446c-b3bf-c86ed8d02a56/default.vertical.jobtemplate.hls.m3u8",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.0a698ae797c147f6996e40383a339480",
+        "product_asin": "B0CHBN8QD9",
+        "parent_asin": "B0CHBN8QD9",
+        "title": "Ultimate Gaming System For The Entire Family ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1n-ZHSMwML._CR0,0,2627,2627_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/a.borghetti",
+        "public_name": "✅ Ashley Borghetti",
+        "creator_type": "Influencer",
+        "vendor_code": "a.borghetti:shop",
+        "vendor_name": "✅ Ashley Borghetti",
+        "vendor_tracking_id": "onamzas0139a4-20",
+        "video_image_id": "91QnSkemyML",
+        "video_image_url": "https://m.media-amazon.com/images/I/91QnSkemyML._CR0,0,1080,609_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91QnSkemyML.png",
+        "video_image_width": "1080",
+        "video_image_height": "1080",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/051b07aa-abb6-4ecf-8193-51aaf4ca7be6/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f25c1b97-7236-4d66-a37d-777bc3ed953f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f25c1b97-7236-4d66-a37d-777bc3ed953f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:13",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/b4946ce8-de17-4a93-a7ef-584e4d7f656c.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0b8cc52d946f4bf1a7638d98d5f9268e",
+        "product_asin": "B0CHBN8QD9",
+        "parent_asin": "B0CHBN8QD9",
+        "related_products": "B0BJWZZ9T1,B0BFJWCYTL,B0D7CSSKG8,B0CHSLPR73",
+        "title": "Love the switch- watch before buying",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1fY2DxwIqL._CR0,513,1536,1536_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/yardgnome",
+        "public_name": "NurseRatchet",
+        "creator_type": "Influencer",
+        "vendor_code": "yardgnome:shop",
+        "vendor_name": "NurseRatchet",
+        "vendor_tracking_id": "onamzlin04433-20",
+        "video_image_id": "410c0UOkIKL",
+        "video_image_url": "https://m.media-amazon.com/images/I/410c0UOkIKL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/410c0UOkIKL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a91cbf5a-b0c5-4c47-941b-49f4f0fd5e88/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/501c072c-eeff-447f-b615-53052da58419/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/501c072c-eeff-447f-b615-53052da58419/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/501c072c-eeff-447f-b615-53052da58419/7a0efc52-45ba-4b88-83c9-1b2b24a5c754/0b8cc52d946f4bf1a7638d98d5f9268e_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:13",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/cb9137eb-a759-4f16-8292-bd96b6691f56.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.054322e934374ec3b47ab7ab4b6ddc19",
+        "product_asin": "B0CHBN8QD9",
+        "parent_asin": "B0CHBN8QD9",
+        "related_products": "B0DK9TCV5M",
+        "title": "The switch is worth buying",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61kaUxWK2oL._CR0,0,870,870_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/yttorials",
+        "public_name": "Avery Harris",
+        "creator_type": "Influencer",
+        "vendor_code": "yttorials:shop",
+        "vendor_name": "Avery Harris",
+        "vendor_tracking_id": "onamzaveryh03-20",
+        "video_image_id": "51SjzhQrm-L",
+        "video_image_url": "https://m.media-amazon.com/images/I/51SjzhQrm-L._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51SjzhQrm-L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d6491795-c54c-4126-9cf6-45011690c11e/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0ac1fd9c-f583-4c4e-b593-a8a88cbc76cc/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0ac1fd9c-f583-4c4e-b593-a8a88cbc76cc/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:13",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/99836b55-9fc8-45f5-bc9b-a509947510ec.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.04d30e35813a4d218b9f48e5305586ca",
+        "product_asin": "B0CHBN8QD9",
+        "parent_asin": "B0CHBN8QD9",
+        "related_products": "B07VJRZ62R",
+        "title": "Family THOUGHTS plus my favorite features ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1z3s4GB7DL._CR0,31,2320,2320_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/owenali3113",
+        "public_name": "Ali Owen",
+        "creator_type": "Influencer",
+        "vendor_code": "owenali3113:shop",
+        "vendor_name": "Ali Owen",
+        "vendor_tracking_id": "onamzaliowen-20",
+        "video_image_id": "61lqMuYdauL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61lqMuYdauL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61lqMuYdauL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "853",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/02dd7d63-843d-4afa-889a-af930b0e4106/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/131c0052-6e76-4512-866b-c806398ce5b6/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/131c0052-6e76-4512-866b-c806398ce5b6/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:31",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/f82f0134-62dc-458c-9457-cfc7d45d1499.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.014d0126293d44e89708ad58b2b71f9f",
+        "product_asin": "B0CHBN8QD9",
+        "parent_asin": "B0CHBN8QD9",
+        "related_products": "B07VGRJDFY,B0BS9Y9L2Y,B0D7CVSCCC,B0D7CXK682",
+        "title": "90s kids will LOVE the nostalgic games ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1nZicOSrVL._CR0,0,1502,1502_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/its.the.pitts",
+        "public_name": "Christina R Pitts",
+        "creator_type": "Influencer",
+        "vendor_code": "its.the.pitts:shop",
+        "vendor_name": "Christina R Pitts",
+        "vendor_tracking_id": "onamzchristrp-20",
+        "video_image_id": "71rs8TnllKL",
+        "video_image_url": "https://m.media-amazon.com/images/I/71rs8TnllKL._CR2,0,1276,720_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71rs8TnllKL.jpg",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8e7d117c-997f-44cb-9739-2ffc70396db2/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a9757af7-a523-486a-8a67-e9edc4ae525f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a9757af7-a523-486a-8a67-e9edc4ae525f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:49",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1339e2f3-594d-42ef-9122-edfbc2493cf7.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.030ac875104e4d74ae509138f3b271fc",
+        "product_asin": "B0CHBN8QD9",
+        "parent_asin": "B0CHBN8QD9",
+        "title": "My review after owning for one year!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71lpvJD3W+L._CR0,0,1179,1179_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/cnzjohnson",
+        "public_name": "Candace Johnson",
+        "creator_type": "Influencer",
+        "vendor_code": "cnzjohnson:shop",
+        "vendor_name": "Candace Johnson",
+        "vendor_tracking_id": "onamzraywoodj-20",
+        "video_image_id": "81uQ6UV2dsL",
+        "video_image_url": "https://m.media-amazon.com/images/I/81uQ6UV2dsL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81uQ6UV2dsL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b426433b-ea5f-479c-83ff-f7b6fb2b9f5e/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cb2ea601-9f64-426b-bca4-2aa2c5114392/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cb2ea601-9f64-426b-bca4-2aa2c5114392/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "4:35",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a46730a3-46e7-45cc-87c9-27b10816278f.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0e279d5db1254a57a1ce11c559d149b8",
+        "product_asin": "B0CHBN8QD9",
+        "parent_asin": "B0CHBN8QD9",
+        "related_products": "B0CHSLPR73",
+        "title": "Real Review of Nintendo switch ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1tDv-rwuQL._CR0,0,1440,1440_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/connectthedotswellness",
+        "public_name": "HappyFive",
+        "creator_type": "Influencer",
+        "vendor_code": "connectthedotswellness:shop",
+        "vendor_name": "HappyFive",
+        "vendor_tracking_id": "onamzmerinfor-20",
+        "video_image_id": "81H0bT-26oL",
+        "video_image_url": "https://m.media-amazon.com/images/I/81H0bT-26oL._CR2,0,851,480_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81H0bT-26oL.png",
+        "video_image_width": "854",
+        "video_image_height": "480",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cfdc2529-ae33-408b-8d57-b66be66196ce/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8e0c95f0-53ad-4b2e-8423-40c8573982db/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8e0c95f0-53ad-4b2e-8423-40c8573982db/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8e0c95f0-53ad-4b2e-8423-40c8573982db/2d54ac04-fd6a-46b4-9eb3-81b924bef63a/0e279d5db1254a57a1ce11c559d149b8_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:47",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/365a9e64-baf4-4b8d-8f54-932b86b12a0f.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.04e3abb3a4ab4400b0428edf7e64a7ff",
+        "product_asin": "B0CHBN8QD9",
+        "parent_asin": "B0CHBN8QD9",
+        "title": "Master Your Nintendo Switch - Easy Setup & Controls Guide",
+        "profile_image_url": "https://m.media-amazon.com/images/I/51pcC65c0oL._CR0,0,1024,1024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/thestoriesofbaseball",
+        "public_name": "Cain Brands Reviews",
+        "creator_type": "Influencer",
+        "vendor_code": "thestoriesofbaseball:shop",
+        "vendor_name": "Cain Brands Reviews",
+        "vendor_tracking_id": "onamzcainbr02-20",
+        "video_image_id": "41aKaVlYE6L",
+        "video_image_url": "https://m.media-amazon.com/images/I/41aKaVlYE6L._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/41aKaVlYE6L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/82faa148-716b-4b07-9f58-08aeea92551f/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1c3f9bfd-01c5-4d28-8e00-a2ecc520b071/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1c3f9bfd-01c5-4d28-8e00-a2ecc520b071/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:58",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/918ed6f6-57cf-4c84-9fdc-09038e65230f.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.02f1dd85b7734206bcd85b5d63661b59",
+        "product_asin": "B0CHBN8QD9",
+        "parent_asin": "B0CHBN8QD9",
+        "title": "WATCH THIS Before You Purchase This Nintendo Switch!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1rdZVRfxyL._CR0,0,2920,2920_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/madsstu",
+        "public_name": "Mads Favorites",
+        "creator_type": "Influencer",
+        "vendor_code": "madsstu:shop",
+        "vendor_name": "Mads Favorites",
+        "vendor_tracking_id": "onamzmad01503-20",
+        "video_image_id": "518DvoXhMRL",
+        "video_image_url": "https://m.media-amazon.com/images/I/518DvoXhMRL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/518DvoXhMRL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1e6d7382-aab7-4911-97ff-bdd0e6483922/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/555b6f1e-4a90-4bc4-9a74-4051b1077f59/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/555b6f1e-4a90-4bc4-9a74-4051b1077f59/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:11",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/f9e658cb-34b9-4dd7-ac5f-2d715609e6f0.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0eaa0c68fd3745238b00d0f5d58f51b0",
+        "product_asin": "B0CHBN8QD9",
+        "parent_asin": "B0CHBN8QD9",
+        "related_products": "B0BFJWCYTL,B07VJRZ62R,B0BJWZZ9T1,B0CHSLPR73,B0D7CSSKG8",
+        "title": "Is it a good gift? ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B183pU2IZ+L._CR0,102,1536,1536_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/girlandherbaby",
+        "public_name": "Ausra",
+        "creator_type": "Influencer",
+        "vendor_code": "girlandherbaby:shop",
+        "vendor_name": "Ausra",
+        "vendor_tracking_id": "onamzausraesc-20",
+        "video_image_id": "618s6f-4WfL",
+        "video_image_url": "https://m.media-amazon.com/images/I/618s6f-4WfL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/618s6f-4WfL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2786168d-c42c-4a09-ba3b-0f1576097f74/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/57e7e54a-6f43-4b87-85c2-e02217fcfeab/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/57e7e54a-6f43-4b87-85c2-e02217fcfeab/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:44",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/420313ec-feb6-4b91-aaa6-78fa0ca16a8f.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "Includes Nintendo Switch system with Neon Red and Neon Blue Joy-Con controllers",
+      "Includes download Code for the full Mario Kart 8 Deluxe game",
+      "Includes redemption Code for a 3-month Nintendo Switch Online Individual Membership",
+      "Mario Kart 8 Deluxe includes 48 Mushroom Kingdom courses and a roster of 42 characters to race",
+      "Three play modes: TV, Tabletop, and Handhel"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Three play modes: TV, Tabletop, and Handhel. Mario Kart 8 Deluxe includes 48 Mushroom Kingdom courses and a roster of 42 characters to race. Includes redemption Code for a 3-month Nintendo Switch Online Individual Membership. Includes download Code for the full Mario Kart 8 Deluxe game. Includes Nintendo Switch system with Neon Red and Neon Blue Joy-Con controllers.",
+    "top_reviews": [
+      {
+        "id": "R1D5EC6ZUCQQ6A",
+        "title": "A Bundle of Joy for Mario Kart Fans!",
+        "body": "A Bundle of Joy for Mario Kart Fans!  I recently purchased the Nintendo Switch Mario Kart 8 Deluxe Bundle, and I must say, it's a fantastic package for any Mario Kart enthusiast. Here's my detailed review:  Gameplay: Mario Kart 8 Deluxe is a timeless classic, and having it bundled with the Nintendo Switch adds tremendous value. The gameplay is as thrilling as ever, with a wide range of characters, tracks, and vehicles to choose from. The controls are responsive, making it easy for both casual and seasoned players to enjoy the race.  Graphics: The graphics on the Nintendo Switch are impressive, even in handheld mode. Mario Kart 8 Deluxe looks vibrant and runs smoothly, capturing the essence of the Mario Kart series. The attention to detail in the tracks and character animations adds to the overall visual appeal.  Online Multiplayer: The inclusion of a 3-month Nintendo Switch Online Membership is a great bonus. This allows you to take the competition online and race against players from around the world. The online multiplayer experience is seamless, and the matchmaking system works well to ensure competitive races.  Bundle Value: Considering that the bundle includes both the full game download and a Nintendo Switch Online Membership, the value is exceptional. It's a cost-effective way to enjoy one of the best multiplayer games on the Switch and access additional online features.  Portability: The Nintendo Switch's portability enhances the Mario Kart experience. Being able to switch between TV mode and handheld mode seamlessly is a game-changer. It's perfect for gaming on the go or enjoying a quick race with friends wherever you are.  Cons: While the bundle is fantastic, it's worth noting that the Nintendo Switch Online Membership is valid for only three months. After that, you'll need to consider renewing it separately. Additionally, if you already own the game, the bundle might not offer as much value.  Conclusion: The Nintendo Switch Mario Kart 8 Deluxe Bundle is a must-have for fans of the series or anyone looking for a great multiplayer experience. The combination of the iconic Mario Kart game and the added bonus of online play makes it a solid investment for Nintendo Switch owners.  Overall, I highly recommend this bundle to anyone looking to add some excitement to their Nintendo Switch collection. Get ready to rev your engines and enjoy hours of racing fun with Mario Kart 8 Deluxe! Read more",
+        "asin": "B0CHBN8QD9",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>A Bundle of Joy for Mario Kart Fans!<br><br>I recently purchased the Nintendo Switch Mario Kart 8 Deluxe Bundle, and I must say, it's a fantastic package for any Mario Kart enthusiast. Here's my detailed review:<br><br>Gameplay:<br>Mario Kart 8 Deluxe is a timeless classic, and having it bundled with the Nintendo Switch adds tremendous value. The gameplay is as thrilling as ever, with a wide range of characters, tracks, and vehicles to choose from. The controls are responsive, making it easy for both casual and seasoned players to enjoy the race.<br><br>Graphics:<br>The graphics on the Nintendo Switch are impressive, even in handheld mode. Mario Kart 8 Deluxe looks vibrant and runs smoothly, capturing the essence of the Mario Kart series. The attention to detail in the tracks and character animations adds to the overall visual appeal.<br><br>Online Multiplayer:<br>The inclusion of a 3-month Nintendo Switch Online Membership is a great bonus. This allows you to take the competition online and race against players from around the world. The online multiplayer experience is seamless, and the matchmaking system works well to ensure competitive races.<br><br>Bundle Value:<br>Considering that the bundle includes both the full game download and a Nintendo Switch Online Membership, the value is exceptional. It's a cost-effective way to enjoy one of the best multiplayer games on the Switch and access additional online features.<br><br>Portability:<br>The Nintendo Switch's portability enhances the Mario Kart experience. Being able to switch between TV mode and handheld mode seamlessly is a game-changer. It's perfect for gaming on the go or enjoying a quick race with friends wherever you are.<br><br>Cons:<br>While the bundle is fantastic, it's worth noting that the Nintendo Switch Online Membership is valid for only three months. After that, you'll need to consider renewing it separately. Additionally, if you already own the game, the bundle might not offer as much value.<br><br>Conclusion:<br>The Nintendo Switch Mario Kart 8 Deluxe Bundle is a must-have for fans of the series or anyone looking for a great multiplayer experience. The combination of the iconic Mario Kart game and the added bonus of online play makes it a solid investment for Nintendo Switch owners.<br><br>Overall, I highly recommend this bundle to anyone looking to add some excitement to their Nintendo Switch collection. Get ready to rev your engines and enjoy hours of racing fun with Mario Kart 8 Deluxe!<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1D5EC6ZUCQQ6A/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CHBN8QD9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 25, 2024",
+          "utc": "2024-01-25T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Manali",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHBHYIWJFUXZGUX5RFGKPV4P5R4Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHBHYIWJFUXZGUX5RFGKPV4P5R4Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 33,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "RCJIFB966GHR7",
+        "title": "Amazing Console",
+        "body": "This console is about the best thing you could get as a young lad. You can play on the TV, at home, in the car, on the airplane, or anywhere. It is simply amazing the versatility that this console gives you. It's literally a Nintendo DS and Wii in one. It is extremely easy and fun to play with friends, for you can use two joy-con controllers or use one and give your friend the other. The games on it are just the best games Nintendo has ever made. Super Mario Odyssey gives you the adventure of a lifetime in 3d. Mario Kart 8 Deluxe is probably my favorite game on the switch, the amount of kart combos and characters you can use, huge amount of tracks that add up to 96 tracks, make a ton of fun for you and your friends. I love the competitiveness you can get Into online and I the community. (especially with the new DLC that adds a whole game's worth of new tracks!!!) Super Mario Wonder is one of the latest releases for the switch and it is freaking awesome, 100% the best 2d Mario of all time, the levels are so creative and fun. The badge mechanic gives a whole other level of fun to the game. One last great game for the switch is Super Smash Bros. Ultimate. The sheer amount of fighters and stages is crazy. The competitiveness is also crazy, the community is great. The only cons I have for it is that the joy cons can be kind of uncomfortable to play with for a long time due to their small size and the amount of game cartridges that I lost over the years (even though it's my fault). Overall the switch is the best console Nintendo has ever made, I have had mine for about 6 years now and I have always loved it. I am very happy that my little brother now has his own and I don't have to share anymore. Even though the switch is an almost perfect console, it is time for Nintendo to release a brand new console rather than just a new Switch variant. 7 years is plenty of time for a new console. Read more",
+        "asin": "B0CHBN8QD9",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This console is about the best thing you could get as a young lad. You can play on the TV, at home, in the car, on the airplane, or anywhere. It is simply amazing the versatility that this console gives you. It's literally a Nintendo DS and Wii in one. It is extremely easy and fun to play with friends, for you can use two joy-con controllers or use one and give your friend the other. The games on it are just the best games Nintendo has ever made. Super Mario Odyssey gives you the adventure of a lifetime in 3d. Mario Kart 8 Deluxe is probably my favorite game on the switch, the amount of kart combos and characters you can use, huge amount of tracks that add up to 96 tracks, make a ton of fun for you and your friends. I love the competitiveness you can get<br>Into online and I the community. (especially with the new DLC that adds a whole game's worth of new tracks!!!) Super Mario Wonder is one of the latest releases for the switch and it is freaking awesome, 100% the best 2d Mario of all time, the levels are so creative and fun. The badge mechanic gives a whole other level of fun to the game. One last great game for the switch is Super Smash Bros. Ultimate. The sheer amount of fighters and stages is crazy. The competitiveness is also crazy, the community is great. The only cons I have for it is that the joy cons can be kind of uncomfortable to play with for a long time due to their small size and the amount of game cartridges that I lost over the years (even though it's my fault). Overall the switch is the best console Nintendo has ever made, I have had mine for about 6 years now and I have always loved it. I am very happy that my little brother now has his own and I don't have to share anymore. Even though the switch is an almost perfect console, it is time for Nintendo to release a brand new console rather than just a new Switch variant. 7 years is plenty of time for a new console.<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RCJIFB966GHR7/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CHBN8QD9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 31, 2023",
+          "utc": "2023-12-31T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFABNPDAFZ3M5NUT6GPGBZGMBRHQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFABNPDAFZ3M5NUT6GPGBZGMBRHQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 18,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1AU1V16PVCPGI",
+        "title": "Nintendo switch",
+        "body": "Works great brand new no issues Read more",
+        "asin": "B0CHBN8QD9",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Works great brand new no issues<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1AU1V16PVCPGI/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CHBN8QD9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 30, 2024",
+          "utc": "2024-11-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "The light bulb was broke and glued together at the contact points very cheap",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEZWDKIZK5TDC6LZ5CQWW5XPNVJQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEZWDKIZK5TDC6LZ5CQWW5XPNVJQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R3KUL5KBL94UV4",
+        "title": "Really nice product",
+        "body": "Shortly after Christmas it price hiked everywhere on Amazon but just in January we saw this one for no price hike sold by Amazon and on sale a few dollars to cents I can’t remember how much on sale anywhere from 0.05 cents off to $5.00 it has been a excellent gift and have loved playing it Mario kart has been fun and it has been better quality then my old Nintendo switch model. Read more",
+        "asin": "B0CHBN8QD9",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Shortly after Christmas it price hiked everywhere on Amazon but just in January we saw this one for no price hike sold by Amazon and on sale a few dollars to cents I can’t remember how much on sale anywhere from 0.05 cents off to $5.00 it has been a excellent gift and have loved playing it Mario kart has been fun and it has been better quality then my old Nintendo switch model.<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3KUL5KBL94UV4/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CHBN8QD9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 25, 2024",
+          "utc": "2024-05-25T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "brandon",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFGHKR3Q2MGLRA4DFH3SMWKAAFJQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFGHKR3Q2MGLRA4DFH3SMWKAAFJQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "RS4542ZRP2ZC4",
+        "title": "Great basic u it",
+        "body": "Not much of a gamer, but was easy to setup and configuration wad dimple Read more",
+        "asin": "B0CHBN8QD9",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Not much of a gamer, but was easy to setup and configuration wad dimple<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RS4542ZRP2ZC4/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CHBN8QD9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 1, 2024",
+          "utc": "2024-12-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Chris S",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEZ4K3R3AWIXUQSKYXWNX3TZWOLQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEZ4K3R3AWIXUQSKYXWNX3TZWOLQ",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/d9b88fa1-4f01-44b2-8e94-ab1241f6fbfd._CR0%2C0%2C500%2C500_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R2BEJU8X3EEOY6",
+        "title": "Nintendo switch",
+        "body": "Awesome game console and nice sized screen. Fun to play. Read more",
+        "asin": "B0CHBN8QD9",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Awesome game console and nice sized screen. Fun to play.<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2BEJU8X3EEOY6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CHBN8QD9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 8, 2024",
+          "utc": "2024-11-08T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Catherine",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHW5GCDVCU3W62IT6MJ4TOPZHVPQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHW5GCDVCU3W62IT6MJ4TOPZHVPQ",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/4b997f64-6ded-44b8-a060-9cdf8494ef36._CR62%2C0%2C375%2C375_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1KYJMDTSL4RQ9",
+        "title": "Nintendo Switch",
+        "body": "The Switch came as expected although did not have digital download in box. Seller provided me one and it all worked out fine. Read more",
+        "asin": "B0CHBN8QD9",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The Switch came as expected although did not have digital download in box. Seller provided me one and it all worked out fine.<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1KYJMDTSL4RQ9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CHBN8QD9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on October 29, 2024",
+          "utc": "2024-10-29T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "lhm",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGKTH65M2GNH4WESORVOKKDOFV3A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGKTH65M2GNH4WESORVOKKDOFV3A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R3EC1K3UGAUJRA",
+        "title": "The whole family loves it.",
+        "body": "Great buy Read more",
+        "asin": "B0CHBN8QD9",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Great buy<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3EC1K3UGAUJRA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CHBN8QD9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on October 28, 2024",
+          "utc": "2024-10-28T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "RD",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFOEOIBDZVV5R4D6WIPFQTXTJBAQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFOEOIBDZVV5R4D6WIPFQTXTJBAQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1TJ6H221WH7RY",
+        "title": "Great",
+        "body": "Great service from Amazon Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Great service from Amazon<br></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Kingdom on January 4, 2024",
+          "utc": "2024-01-04T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Heather"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "gb",
+        "is_global_review": true
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 2,
+        "hard_maximum": true
+      },
+      "mixed_offers_count": 90,
+      "mixed_offers_from": {
+        "symbol": "$",
+        "value": 330.99,
+        "currency": "USD",
+        "raw": "$330.99"
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "Only 13 left in stock - order soon.",
+        "dispatch_days": 1,
+        "stock_level": 13
+      },
+      "fulfillment": {
+        "type": "3p",
+        "holiday_message": "Arrives before ChristmasArrives before Christmas",
+        "standard_delivery": {
+          "date": "Friday, December 20",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "December 13 - 17",
+          "name": "Or fastest delivery December 13 - 17. Details"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Skyhigh Tech",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A12LTVP7KBAA4&asin=B0CHBN8QD9&ref_=dp_merchant_link",
+          "id": "A12LTVP7KBAA4"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 350,
+        "currency": "USD",
+        "raw": "$350.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "ASIN",
+        "value": "B0CHBN8QD9"
+      },
+      {
+        "name": "Release date",
+        "value": "October 6, 2023"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.8    4.8 out of 5 stars         2,631 ratings          4.8 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#24 in Video Games (See Top 100 in Video Games) #1 in Nintendo Switch Consoles"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "14 x 4 x 8 inches; 3.15 Pounds"
+      },
+      {
+        "name": "Type of item",
+        "value": "Accessory"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Item model number",
+        "value": "HADSKABLM"
+      },
+      {
+        "name": "Item Weight",
+        "value": "3.14 pounds"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Nintendo"
+      },
+      {
+        "name": "Batteries",
+        "value": "3 Lithium Ion batteries required. (included)"
+      },
+      {
+        "name": "Date First Available",
+        "value": "September 5, 2023"
+      }
+    ],
+    "specifications_flat": "Date First Available: September 5, 2023. Batteries: 3 Lithium Ion batteries required. (included). Manufacturer: Nintendo. Item Weight: 3.14 pounds. Item model number: HADSKABLM. Language: English. Type of item: Accessory. Product Dimensions: 14 x 4 x 8 inches; 3.15 Pounds. Best Sellers Rank: #24 in Video Games (See Top 100 in Video Games) #1 in Nintendo Switch Consoles. Customer Reviews: 4.8    4.8 out of 5 stars         2,631 ratings          4.8 out of 5 stars. Release date: October 6, 2023. ASIN: B0CHBN8QD9.",
+    "bestsellers_rank": [
+      {
+        "category": "Video Games",
+        "rank": 24,
+        "link": "https://www.amazon.com/gp/bestsellers/videogames/ref=pd_zg_ts_videogames"
+      },
+      {
+        "category": "Nintendo Switch Consoles",
+        "rank": 1,
+        "link": "https://www.amazon.com/gp/bestsellers/videogames/16227130011/ref=pd_zg_hrsr_videogames"
+      }
+    ],
+    "release_date": "October 6, 2023",
+    "language": "English",
+    "manufacturer": "Nintendo",
+    "weight": "3.14 pounds",
+    "first_available": {
+      "raw": "September 5, 2023",
+      "utc": "2023-09-05T00:00:00.000Z"
+    },
+    "dimensions": "14 x 4 x 8 inches; 3.15 Pounds",
+    "model_number": "HADSKABLM",
+    "bestsellers_rank_flat": "Category: Video Games | Rank: 24, Category: Nintendo Switch Consoles | Rank: 1"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 416.98,
+      "currency": "USD",
+      "raw": "$416.98"
+    },
+    "products": [
+      {
+        "asin": "B0CHBN8QD9",
+        "title": "Nintendo Switch™ Mario Kart™ 8 Deluxe Bundle (Full Game Download + 3 Mo. Nintendo Switch Online Membership Included)",
+        "link": "https://www.amazon.com/dp/B0CHBN8QD9",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/811vxk7WqNL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 330.99,
+          "currency": "USD",
+          "raw": "$330.99"
+        }
+      }
+    ]
+  }
+}
